@@ -3,16 +3,11 @@ layout: cv
 style: davewhipp
 ---
 
-# Isaac Newton
+# Durban G. Keeler
 
-Physicist, Mathematician, Cambridge professor.
+Glaciologist and climate scientist specializing in remote sensing and machine learning.
 
-<!-- <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div> -->
-
-[isaac@applesdofall.org](isaac@applesdofall.org) \| [My wikipedia page](http://en.wikipedia.org/wiki/Isaac_Newton)
+[durban.keeler@gmail.com](durban.keeler@gmail.com) \| [My wikipedia page](http://en.wikipedia.org/wiki/Isaac_Newton)
 
 ## Currently
 
@@ -30,18 +25,17 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sept 2006 - May 2013`
+__Bachelor of Science: Geology__
+*Brigham Young University*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Sept 2013 - Dec 2015`
+__Master of Science: Geology__
+*Brigham Young University*
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`Sept 2016 - May 2021`
+__Doctor of Philosophy: Geography__
+*University of Utah*
 
 
 
