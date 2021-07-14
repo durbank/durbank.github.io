@@ -1,91 +1,87 @@
 ---
+title: Resume
 layout: cv
 style: davewhipp
 ---
 
 # Durban G. Keeler
 
-Brief description summarizing who I am.
+<!-- Brief description summarizing who I am. -->
 
-<!-- [Email](durban.keeler@gmail.com) \| [Website](https://durbank.github.io/) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank) -->
-[durban.keeler@gmail.com](durban.keeler@gmail.com) \| [https://github.com/durbank](https://github.com/durbank) \| [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank)
+[Email](durban.keeler@gmail.com) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank)
+<!-- [durban.keeler@gmail.com](durban.keeler@gmail.com) \| [https://github.com/durbank](https://github.com/durbank) \| [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) -->
 
 ## Objective
 
-A ____ position where I can leverage my experience in Earth Sciences, remote sensing, and data science
+A ____ position where I can leverage my experience in Earth Sciences, remote sensing, and machine learning.
 
-<!-- ## Research Interests
+## Skills
 
-Blah blah blah blah -->
-
-## Specialized Skills
-
-**Programming:** Python, R, MATLAB, bash scripting \
-**Statistics:** Blah blah blah \
-**Needs category:** High-performance computing, Slurm, 
-
-## Specialized Skills
-
-### Programming
-
-Python, R, and MATLAB programming languages, including scientific packages (e.g. NumPy, pandas, scikit-learn) and spatial packages (e.g. geopandas, xarray, rasterio)
-- Interactive data visualizations in R and Python
-- Version control
-- HPC environments, including remote Linux systems and SLURM batch scripting
-
-### Datasets
-
-- VNIR/optical imagery
-- Radar imagery
-- GCM/RCM products
-- Stable water isotopes
-
-### Statistics 
-
-Blah blah blah
+**Programming languages:** Python, R, MATLAB, bash scripting \
+**Computing:** High-performance computing, data visualization, version control, Linux environments \
+**Statistics:** Geostatistics, time series analysis, anomaly detection \
+**Data types:** Geospatial data, VNIR/optical imagery, radar, climate model outputs, geochemical isotopes
 
 ## Education
 
-`Sept 2016–May 2021`
-**Doctor of Philosophy: University of Utah**\
+`2021`
+**Ph.D.** &emsp;&emsp;&emsp;&emsp;&emsp; **_University of Utah_**\
 *Discipline: Geography*\
 *Emphasis: Glaciology and climatology*
 
-`Sept 2013–Dec 2015`
-**Master of Science: Brigham Young University**\
+`2015`
+**M.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **_Brigham Young University_**\
 *Discipline: Geology*\
 *Emphasis: Alpine glaciology and paleoclimate*
 
-`Sept 2006–May 2013`
-**Bachelor of Science: Brigham Young University**\
+`2013`
+**B.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **_Brigham Young University_**\
 *Discipline: Geology*\
 *Minor: Physics*
 
 ## Relevant Experience
 
-### Research Projects
+### Projects
 
-`Date–Date`
+`2016–Present`
 **Trends in Antarctic precipitation:**
-Blah blah blah.
-More blah.
-More more blah.
+Developed, validated, and implemented computer vision algorithms to reconstruct West Antarctic precipitation time series using airborne radar data.
+Fully automated, scalable workflow that increased available data over 300x compared to *in-situ* observations.
+More blah blah.
 
-`Date–Date`
+`2020–Present`
 **Glacio-climate zones of High Mountain Asia:**
+Investigations of High Mountain Asia glacier groups by leveraging regional climate modeling and machine learning.
+More blah.
+More more blah.
+
+`Date–Date`
+**Climate reconstruction from paleoglaciers:**
 Blah blah blah.
 More blah.
 More more blah.
 
 `Date–Date`
-**Project title:**
+**Glacier melt and hydrology modeling:**
+Blah blah blah.
+More blah.
+More more blah.
+
+`Date–Date`
+**Antarctic moisture source provenance:**
+Blah blah blah.
+More blah.
+More more blah.
+
+`Date–Date`
+**Geology intern—Forest Oil Corporation:**
 Blah blah blah.
 More blah.
 More more blah.
 
 ### Leadership
 
-`2016–Present`
+`Jan 2016–Present`
 **Snow Water and Ice Research Lab Manager**
 Blah blah blah.
 More blah.
@@ -95,7 +91,7 @@ More more blah.
 **Research Mentor:**
 Blah blah blah.
 
-`Date–Date`
+`2019`
 **Course Instructor:**
 Various courses at various levels.
 Course development (stats module)
@@ -107,57 +103,41 @@ Co-instructor of graduate level Cryospheric Data Analysis
 ## Grants and Awards
 
 `2021`
-Excellence in Research Award: U of U Geography Department
+Excellence in Research Award: University of Utah Geography Department
 
-`2019–2020`
-University of Utah Graduate Research Fellowship
-
-`2018–2019`
-Graduate Student Representative for U of U Geography Student Body
+`2019`
+University of Utah Graduate Research Fellowship recipient
 
 `2015`
-Outstanding Teaching Award: BYU Geology Department
+Outstanding Teaching Award: Brigham Young University Geology Department
 
-`Year`
-Three-time winner of Best in Session Presentation in BYU Spring Research Conference
+`2015`
+Best in Session Award: BYU Spring Research Conference
 
-`Year`
-BYU ORCA grant recipient
+`2013`
+Best in Session Award: BYU Spring Research Conference
 
-`Year`
+`2012`
+Best in Session Award: BYU Spring Research Conference
+
+`2012`
+Brigham Young University ORCA grant recipient
+
+`2006`
 ConocoPhillips Scholarship recipient
 
-`Year`
+`2004`
 VFW Voice of Democracy Scholarship recipient
-
-## Open Source
-
-`2020`
-[Glacier ELA model based on geomorphic constraints](https://github.com/durbank/ELA-model)
-
-`2019`
-[An Introduction to Version Control with git](https://github.com/UofU-Cryosphere/git-intro)
-
-`2019`
-[The Probabilistic Automated Picking Routine (PAIPR)](https://github.com/durbank/PAIPR)
-
-`2018`
-[IsoReduce – Data reduction for stable water isotope data](https://github.com/UofU-Cryosphere/IsoReduce)
 
 ## Select Publications and Presentations
 
 `2021`
-Caltech invited talk: *Polar snow water-equivalent (SWE) from radar and density modeling*
+California Institute of Technology (invited talk): *Polar snow water-equivalent (SWE) from radar and density modeling*
 
 `2020`
-BYU invited talk: *Recent trends in West Antarctic surface mass balance using automated radar echo sounding*
-
-<!-- *A complete list is available [online](../publications/index.md)* -->
+Brigham Young University (invited talk): *Recent trends in West Antarctic surface mass balance using automated radar echo sounding*
 
 
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+---
+Last updated: July 2021

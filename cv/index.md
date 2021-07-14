@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV/Resume
 permalink: /cv/
 ---
+
+Links to my academic CV and private sector resume.
 
 ## [Academic CV]({% link cv/cv.md %})
 
