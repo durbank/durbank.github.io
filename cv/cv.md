@@ -1,13 +1,14 @@
 ---
 layout: cv
 style: davewhipp
+title: ""
 ---
 
 # Durban G. Keeler
 
 Glaciologist and climate scientist specializing in remote sensing and machine learning.
 
-[durban.keeler@gmail.com](durban.keeler@gmail.com) \| [My Github](https://github.com/durbank)
+[My Email](durban.keeler@gmail.com) \| [My Github](https://github.com/durbank)
 
 ## Education
 
