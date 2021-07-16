@@ -1,13 +1,14 @@
 ---
 layout: cv
 style: davewhipp
+title: ""
 ---
 
 # Durban G. Keeler
 
 <!-- Brief description summarizing who I am. -->
 
-[Email](durban.keeler@gmail.com) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank)
+[My Email](durban.keeler@gmail.com) \| [My GitHub](https://github.com/durbank) \| [My LinkedIn](www.linkedin.com/in/durbank)
 <!-- [durban.keeler@gmail.com](durban.keeler@gmail.com) \| [https://github.com/durbank](https://github.com/durbank) \| [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) -->
 
 ## Objective
