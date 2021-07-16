@@ -1,5 +1,4 @@
 ---
-title: Resume
 layout: cv
 style: davewhipp
 ---
@@ -13,7 +12,7 @@ style: davewhipp
 
 ## Objective
 
-A ____ position where I can leverage my experience in Earth Sciences, remote sensing, and machine learning.
+A _[insert job-specific descriptor]_ position where I can leverage my experience in Earth Sciences, remote sensing, and machine learning.
 
 ## Skills
 
@@ -25,7 +24,7 @@ A ____ position where I can leverage my experience in Earth Sciences, remote sen
 ## Education
 
 `2021`
-**Ph.D.** &emsp;&emsp;&emsp;&emsp;&emsp; **_University of Utah_**\
+**Ph.D.** &emsp;&emsp;&emsp;&emsp;&ensp; **_University of Utah_**\
 *Discipline: Geography*\
 *Emphasis: Glaciology and climatology*
 
@@ -41,66 +40,65 @@ A ____ position where I can leverage my experience in Earth Sciences, remote sen
 
 ## Relevant Experience
 
-### Projects
+### Research
 
-`2016–Present`
+`2016–2021`
 **Trends in Antarctic precipitation:**
 Developed, validated, and implemented computer vision algorithms to reconstruct West Antarctic precipitation time series using airborne radar data.
 Fully automated, scalable workflow that increased available data over 300x compared to *in-situ* observations.
-More blah blah.
+Collaboratively worked with experts from other fields, resulting in 5 article submissions.
 
-`2020–Present`
+`2020–2021`
 **Glacio-climate zones of High Mountain Asia:**
-Investigations of High Mountain Asia glacier groups by leveraging regional climate modeling and machine learning.
-More blah.
-More more blah.
+Investigated High Mountain Asia glacier groups by leveraging regional climate modeling and machine learning.
+Demonstrated synthesis of domain expertise and advanced statistical/computational techniques.
 
-`Date–Date`
-**Climate reconstruction from paleoglaciers:**
-Blah blah blah.
-More blah.
-More more blah.
-
-`Date–Date`
+<!-- `2016`
 **Glacier melt and hydrology modeling:**
 Blah blah blah.
 More blah.
-More more blah.
+- Dynamic modeling of energy exchange and  -->
 
-`Date–Date`
+`2013–2015`
+**Climate reconstruction from paleoglaciers:**
+Developed physics-based glacier model to estimate climate changes from minimal measurements, with an emphasis on robust uncertainty assessment.
+Demonstrated commitment to both expanding knowledge and developing tools to aid in investigations.
+
+`2011–2012`
 **Antarctic moisture source provenance:**
-Blah blah blah.
-More blah.
-More more blah.
+Reconstructions of changes to West Antarctic moisture source regions using deuterium excess analyses from shallow firn cores.
+Demonstrated ability to quickly develop new skills as needed.
 
-`Date–Date`
+`2012`
 **Geology intern—Forest Oil Corporation:**
-Blah blah blah.
-More blah.
-More more blah.
+Quantified correlations between well success and various 3D seismic attributes to help identify future well sites and constrain current risk assessments.
+Demonstrated ability to identify and solve issues with little oversight and effectively communicate results to others.
 
 ### Leadership
 
-`Jan 2016–Present`
+`2016–2021`
 **Snow Water and Ice Research Lab Manager**
-Blah blah blah.
-More blah.
-More more blah.
+Responsible for the procurement, maintenance, and use of lab equipment, including training other lab members.
+Also included the development and implementation of standardized isotope analysis protocols and data correction software.
+Proven commitment to the mentoring and success of other lab members.
 
 `2020`
 **Research Mentor:**
-Blah blah blah.
+Primary research mentor for an MS graduate student validating automated methods of estimating snow accumulation for the Greenland Ice Sheet using radar.
+Demonstrated the ability to methodically divide large projects into manageable short-term goals to be accomplished by others.
 
 `2019`
 **Course Instructor:**
-Various courses at various levels.
-Course development (stats module)
-Co-instructor of graduate level Cryospheric Data Analysis
+Instructor of record for the graduate-level course, Cryospheric Data Analysis.
+Developed and taught a module on Gaussian processes for a graduate level statistics course.
+Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences.
 
-`Date–Date`
+`2013–2015`
 **Teaching Assistant:**
+Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication).
+Proven ability to work patiently and empathically with individuals and groups.
 
-## Grants and Awards
+## Awards and Honors
 
 `2021`
 Excellence in Research Award: University of Utah Geography Department
@@ -129,13 +127,13 @@ ConocoPhillips Scholarship recipient
 `2004`
 VFW Voice of Democracy Scholarship recipient
 
-## Select Publications and Presentations
+<!-- ## Select Publications and Presentations
 
 `2021`
 California Institute of Technology (invited talk): *Polar snow water-equivalent (SWE) from radar and density modeling*
 
 `2020`
-Brigham Young University (invited talk): *Recent trends in West Antarctic surface mass balance using automated radar echo sounding*
+Brigham Young University (invited talk): *Recent trends in West Antarctic surface mass balance using automated radar echo sounding* -->
 
 
 

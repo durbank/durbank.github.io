@@ -1,5 +1,4 @@
 ---
-title: CV
 layout: cv
 style: davewhipp
 ---
