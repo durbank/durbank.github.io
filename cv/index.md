@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV/Resume
 permalink: /cv/
 ---
 
-This is where I will host my CV and similar details.
-More to come soon...
+Links to my academic CV and private sector resume.
+
+## [Academic CV]({% link cv/cv.md %})
+
+## [Resume]({% link cv/resume.md %})

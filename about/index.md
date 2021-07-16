@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is my page where I introduce myself.
-More to come soon...
+## \*\*\*UNDER CONSTRUCTION\*\*\*
+
+I am an Earth Scientist who specializes in leveraging remote sensing, computational modeling, and machine learning to investigate changes in the cryosphere in the recent past and near future.
+I conduct research involving polar ice sheets, mountain glaciers, and seasonal snow.
+
+I attended Brigham Young University and the University of Utah for my M.S. and Ph.D. degrees.
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
