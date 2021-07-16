@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-**UNDER CONSTRUCTION**
+## \*\*\*UNDER CONSTRUCTION\*\*\*
 
 A page to include links/copies of my publications, along with brief descriptions of the research.
 
