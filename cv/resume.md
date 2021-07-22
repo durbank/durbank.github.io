@@ -11,9 +11,9 @@ title: ""
 [My Email](durban.keeler@gmail.com) \| [My GitHub](https://github.com/durbank) \| [My LinkedIn](www.linkedin.com/in/durbank)
 <!-- [durban.keeler@gmail.com](durban.keeler@gmail.com) \| [https://github.com/durbank](https://github.com/durbank) \| [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) -->
 
-## Objective
+<!-- ## Objective
 
-A _[insert job-specific descriptor]_ position where I can leverage my experience in Earth Sciences, remote sensing, and machine learning.
+A _[insert job-specific descriptor]_ position where I can leverage my experience in Earth Sciences, remote sensing, and machine learning. -->
 
 ## Skills
 
@@ -25,21 +25,21 @@ A _[insert job-specific descriptor]_ position where I can leverage my experience
 ## Education
 
 `2021`
-**Ph.D.** &emsp;&emsp;&emsp;&emsp;&ensp; **_University of Utah_**\
+**Ph.D.** &emsp;&emsp;&emsp;&emsp;&ensp; **University of Utah**\
 *Discipline: Geography*\
 *Emphasis: Glaciology and climatology*
 
 `2015`
-**M.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **_Brigham Young University_**\
+**M.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **Brigham Young University**\
 *Discipline: Geology*\
 *Emphasis: Alpine glaciology and paleoclimate*
 
 `2013`
-**B.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **_Brigham Young University_**\
+**B.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **Brigham Young University**\
 *Discipline: Geology*\
 *Minor: Physics*
 
-## Relevant Experience
+## Experience
 
 ### Research
 
@@ -135,8 +135,6 @@ California Institute of Technology (invited talk): *Polar snow water-equivalent 
 
 `2020`
 Brigham Young University (invited talk): *Recent trends in West Antarctic surface mass balance using automated radar echo sounding* -->
-
-
 
 ---
 Last updated: July 2021
