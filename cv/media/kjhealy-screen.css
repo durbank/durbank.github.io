@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/
+/* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
+article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -53,41 +53,40 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 100%;
+	font-size: 80%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
+	font-family: Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
 }
 
 p {
 	position: relative;
-	left: 25%;
+	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 65%;
 }
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 60%;
 	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
 }
 
 p code {
 	position: absolute;
-	text-align: right;
-	right: -20%;
+	left: -14%;
 }
 
 
-ul {
+ul { 
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 33%;
+	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -115,8 +114,8 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
+	font-family: Cousine,Verdana,sans-serif;
+	width: 65%;
 }
 
 h1 {
@@ -124,10 +123,10 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 33%;
 }
 
-h1+p {
+h1+p { 
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
@@ -135,7 +134,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #bc412b;
+	color: #a00;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -145,7 +144,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	line-height: 2em;
+	line-height: 2em; 
 	position: relative;
 	top: 1.7em;
 	text-align: right;
@@ -164,10 +163,10 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
-	color: #bc412b;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
+	left: 33%;
+	color: #aaa;
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
 }
 
 #webaddress a {
@@ -175,7 +174,7 @@ a:hover {
 }
 
 em {
-	/* font-weight: bold; */
+	font-weight: bold;
 	font-style: italic;
 }
 

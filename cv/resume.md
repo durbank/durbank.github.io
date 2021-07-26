@@ -1,6 +1,6 @@
 ---
 layout: cv
-style: davewhipp
+style: kjhealy
 title: ""
 ---
 
@@ -14,13 +14,6 @@ title: ""
 <!-- ## Objective
 
 A _[insert job-specific descriptor]_ position where I can leverage my experience in Earth Sciences, remote sensing, and machine learning. -->
-
-## Skills
-
-**Programming languages:** Python, R, MATLAB, bash scripting \
-**Computing:** High-performance computing, data visualization, version control, Linux environments \
-**Statistics:** Geostatistics, time series analysis, anomaly detection \
-**Data types:** Geospatial data, VNIR/optical imagery, radar, climate model outputs, geochemical isotopes
 
 ## Education
 
@@ -46,7 +39,7 @@ A _[insert job-specific descriptor]_ position where I can leverage my experience
 `2016–2021`
 **Trends in Antarctic precipitation:**
 Developed, validated, and implemented computer vision algorithms to reconstruct West Antarctic precipitation time series using airborne radar data.
-Fully automated, scalable workflow that increased available data over 300x compared to *in-situ* observations.
+Fully automated, scalable workflow that increased available data over 300x compared to in-situ observations.
 Collaboratively worked with experts from other fields, resulting in 5 article submissions.
 
 `2020–2021`
@@ -98,6 +91,13 @@ Proven ability to convey complex topics in approachable and intuitive formats to
 **Teaching Assistant:**
 Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication).
 Proven ability to work patiently and empathically with individuals and groups.
+
+## Skills
+
+**Programming languages:** Python, R, MATLAB, bash scripting \
+**Computing:** High-performance computing, data visualization, version control, Linux environments \
+**Statistics:** Geostatistics, time series analysis, anomaly detection \
+**Data types:** Geospatial data, VNIR/optical imagery, radar, climate model outputs, geochemical isotopes
 
 ## Awards and Honors
 
