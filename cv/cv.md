@@ -39,11 +39,11 @@ Glaciologist and climate scientist specializing in remote sensing and machine le
 
 **Keeler, D.G.**, Rupper, S., Forster, R.R. (_2021+_) Repeatability of Polar Snow Accumulation Time Series from Interannual Repeat Radar Echograms. _IEEE Geoscience and Remote Sensing Letters_.
 
-Sheanshang, D., White, P.A., **Keeler, D.G.**, (_2020+_). Snow Density Mixture Modelling with a Semiparametric Prior Density Process for Outlier Identification. _Journal of the Royal Statistical Society, Series C (Applied Statistics)_
-
 White, P.A., **Keeler, D.G.**, Sheanshang, D., Rupper, S. (_2020+_). Improving Interpretable Piecewise Linear Models through Hierarchical Spatial and Functional Smoothing. _Environmetrics_, [http://arxiv.org/abs/2006.09329](http://arxiv.org/abs/2006.09329)
 
 ### Published
+
+Sheanshang, D., White, P.A., **Keeler, D.G.**, (*in press*). Snow Density Mixture Modelling with a Semiparametric Prior Density Process for Outlier Identification. _Journal of the Royal Statistical Society, Series C (Applied Statistics)_
 
 White, P. A., **Keeler, D. G.**, & Rupper, S. (2021). Hierarchical integrated spatial process modeling of monotone West Antarctic snow density curves. _The Annals of Applied Statistics_, 15(2), 556–571. [https://doi.org/10.1214/21-AOAS1443](https://doi.org/10.1214/21-AOAS1443)
 
@@ -91,65 +91,91 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 ## Research Experience
 
 `2020-Present`
-**Glacio-climate zonation of High Mountain Asia:**
-Blah blah blah.
-More blah.
+**Glacio-climate zonation of High Mountain Asia**
+
+- Investigated High Mountain Asia glacier groups by leveraging regional climate modeling and machine learning
+- Led to doubling of predictive power of mass balance modeling based on hierarchical clustering methods
+- Important implications for water resource management within High Mountain Asia and downstream communities
 
 `2016-Present`
-**Reconstruction of surface mass balance time series from radar:**
-Investigations of spatiotemporal changes in Antarctic surface mass balance and the climatic mechanisms effecting those changes.
-Included the development, validation, and implementation of an automated probabilistic computer vision method to estimate annual accumulation in dry firn from radar.
+**Reconstruction of surface mass balance time series from radar**
+
+- Developed and implemented computer vision algorithms to reconstruct West Antarctic precipitation time series using airborne radar data
+- Worked with other experts to implement snow density modeling within a Bayesian framework, permitting more robust uncertainty quantification
+- Led to a fully automated, scalable workflow that increased available data over 300x compared to in-situ observations
+- Results demonstrated important changes to West Antarctic moisture transport with implications on future sea level
+- Collaboratively worked with experts from other fields, resulting in 5 article submissions
 
 `2015-Present`
-**Lab manager for the University of Utah Snow, Water and Ice Research Lab:**
-In addition to general lab and equipment upkeep, responsibilities included the development, maintenance and operation of the
-SWIRL stable water isotope protocols/analysis and general lab training for incoming lab members.
+**University of Utah Snow Water and Ice Research Lab Manager**
+
+- Responsible for the procurement, maintenance, and use of lab equipment, including training other lab members
+- Decreased lab procurement costs by 20+% during start up of isotope analysis component of laboratory
+- Streamlined and standardized lab operating procedures, resulting in greatly increased productivity, throughput, and accuracy
 
 `2013-2015`
-**Paleoclimate reconstructions from glacial record:**
-Investigations of paleoclimatology and glacial history of the Swiss Alps during the Younger Dryas.
-Included the development and implementation of a physically based ELA model, lab preparation and analysis of Be-10 for cosmogenic radionuclide dating, field mapping/sampling of glacial moraines and glacial melt water, and building surface energy and mass balance and hydrology routing models for glacier melt.
+**Paleoclimate reconstructions from glacial record**
+
+- Developed physically-based glacier model to estimate climate changes from minimal measurements
+- Included the development and implementation of a physically based ELA model, lab preparation and analysis of Be-10 for cosmogenic radionuclide dating, field mapping/sampling of glacial moraines and glacial melt water, and building surface energy and mass balance and hydrology routing models for glacier melt
+- Permitted direct quantitative climatic assessments across diverse regions and settings compared to more traditional qualitative approaches
+- Additionally provided robust uncertainty quantification, allowing for more detailed risk and sensitivity assessment
+
 
 `2012-2013`
-**Glacier melt modeling and improved temperature index models:**
-Optimized improvements to temperature index modeling for alpine glaciers.
-Research primarily used statistical modeling of the influence of various climate parameters (derived
-from a glacial surface mass-energy balance model) on glacial melt rates.
+**Glacier melt modeling and improved temperature index models**
+
+- Optimized improvements to temperature index modeling for alpine glaciers.
+- Statistical modeling of the influence of various climate parameters (derived from a glacial surface mass-energy balance model) on glacial melt rates
 
 `2011-2012`
-**Provenance of West Antarctic moisture using deuterium excess:**
-Reconstructions of changes to West Antarctic moisture source regions using deuterium excess analyses from shallow firn cores.
-Work included participation in the processing and measurement of firn cores, stable water isotope analysis, and interpretation of deuterium excess results.
+**Provenance of West Antarctic moisture using deuterium excess**
+
+- Reconstruction of West Antarctic moisture source regions using deuterium excess analyses from shallow ice cores
+- Results indicated a greater contribution from high latitude ocean sources to West Antarctica
 
 ## Teaching Experience
 
 `2020`
-Primary research mentor for Master’s of Science for Secondary School Teachers student at the University of Utah.
-Research project focused on validation of automated techniques to estimate snow accumulation from airborne radar over the Greenland Ice Sheet.
+**Research Mentor**
+
+- Primary research mentor for an Master's of Science for Secondary School Teachers graduate student at the University of Utah
+- Guided student to successful completion and defense of research investigating Greenland snow accumulation in recent decades
+- Demonstrated the ability to methodically divide large projects into manageable short-term goals to be accomplished by others
 
 `2019`
-Co-instructor for University of Utah graduate course on Cryospheric Data Analysis.
-Review of geochemical methods used in the cryosphere literature and processing/interpreting of analytical results from lab instruments (specifically stable water isotopes and refractory black carbon).
+**Course Instructor**
+
+- Instructor of record for the graduate-level course, Cryospheric Data Analysis
+- Review of geochemical methods used in the cryosphere literature and processing/interpreting of analytical results from lab instruments (specifically stable water isotopes and refractory black carbon)
+- Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences
 
 `2017`
-Developed and taught a module on Gaussian process regression for a graduate statistics course in the University of Utah Geography Department.
+- Developed and taught a module on Gaussian process regression for a graduate statistics course in the University of Utah Geography Department
 
 `2016`
-Developed and taught labs for an undergraduate course on snow and ice.
+- Developed and taught labs for an undergraduate course on snow and ice
+
+`2013–2015`
+**Teaching Assistant**
+
+- Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication)
+- Went beyond minimum requirements (organized study sessions for students, met with them individually, etc.) to help others master the subject matter and succeed in their projects
+<!-- - Proven ability to work patiently and empathically with individuals and groups. -->
 
 `2015`
-Teaching assistant for the BYU Geology Department senior field camp, including helping to develop the curriculum used in the glacial geomorphology portion of the
-field camp.
+- Teaching assistant for the BYU Geology Department senior field camp, including helping to develop the curriculum used in the glacial geomorphology portion of the
+field camp
 
 `2015`
-Teaching assistant for an upper-division BYU course in Resource Geology.
+- Teaching assistant for an upper-division BYU course in Resource Geology
 
 `2014`
-Teaching assistant for an upper-division BYU course on geochemistry.
+- Teaching assistant for an upper-division BYU course on geochemistry
 
 `2013`
-Taught lab portions of an undergraduate BYU course on scientific communication (covering writing, raster/vector figure creation, and an introduction to GIS).
-Assisted in the development of the class curriculum.
+- Taught lab portions of an undergraduate BYU course on scientific communication (covering writing, raster/vector figure creation, and an introduction to GIS)
+- Assisted in the development of the class curriculum
 
 ## Open respositories and datasets
 

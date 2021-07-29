@@ -6,7 +6,7 @@ title: ""
 
 # Durban G. Keeler
 
-<!-- Brief description summarizing who I am. -->
+Earth scientist specializing in remote sensing, spatiotemporal statistics, and machine learning
 
 [My Email](durban.keeler@gmail.com) \| [My GitHub](https://github.com/durbank) \| [My LinkedIn](www.linkedin.com/in/durbank)
 <!-- [durban.keeler@gmail.com](durban.keeler@gmail.com) \| [https://github.com/durbank](https://github.com/durbank) \| [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) -->
@@ -14,13 +14,6 @@ title: ""
 <!-- ## Objective
 
 A _[insert job-specific descriptor]_ position where I can leverage my experience in Earth Sciences, remote sensing, and machine learning. -->
-
-## Skills
-
-**Programming languages:** Python, R, MATLAB, bash scripting \
-**Computing:** High-performance computing, data visualization, version control, Linux environments \
-**Statistics:** Geostatistics, time series analysis, anomaly detection \
-**Data types:** Geospatial data, VNIR/optical imagery, radar, climate model outputs, geochemical isotopes
 
 ## Education
 
@@ -39,20 +32,32 @@ A _[insert job-specific descriptor]_ position where I can leverage my experience
 *Discipline: Geology*\
 *Minor: Physics*
 
+## Skills
+
+**Programming languages:** Python, R, MATLAB, bash \
+**Computing:** High-performance computing, cloud computing, data visualization, version control, Linux environments \
+**Statistics:** Geostatistics, time series analysis, anomaly detection, Bayesian inference \
+**Data types:** Geospatial data, VNIR/optical imagery, radar, climate model outputs, geochemical isotopes
+
 ## Experience
 
 ### Research
 
 `2016–2021`
-**Trends in Antarctic precipitation:**
-Developed, validated, and implemented computer vision algorithms to reconstruct West Antarctic precipitation time series using airborne radar data.
-Fully automated, scalable workflow that increased available data over 300x compared to *in-situ* observations.
-Collaboratively worked with experts from other fields, resulting in 5 article submissions.
+**Trends in Antarctic precipitation**
+
+- Developed and implemented computer vision algorithms to reconstruct West Antarctic precipitation time series using airborne radar data
+- Worked with other experts to implement snow density modeling within a Bayesian framework, permitting more robust uncertainty quantification
+- Led to a fully automated, scalable workflow that increased available data over 300x compared to in-situ observations
+- Results demonstrated important changes to West Antarctic moisture transport with implications on future sea level
+<!-- - Collaboratively worked with experts from other fields, resulting in 5 article submissions -->
 
 `2020–2021`
-**Glacio-climate zones of High Mountain Asia:**
-Investigated High Mountain Asia glacier groups by leveraging regional climate modeling and machine learning.
-Demonstrated synthesis of domain expertise and advanced statistical/computational techniques.
+**Glacio-climate zones of High Mountain Asia**
+
+- Investigated High Mountain Asia glacier groups by leveraging regional climate modeling and machine learning
+- Led to doubling of predictive power of mass balance modeling based on hierarchical clustering methods
+- Important implications for water resource management within High Mountain Asia and downstream communities
 
 <!-- `2016`
 **Glacier melt and hydrology modeling:**
@@ -61,45 +66,56 @@ More blah.
 - Dynamic modeling of energy exchange and  -->
 
 `2013–2015`
-**Climate reconstruction from paleoglaciers:**
-Developed physics-based glacier model to estimate climate changes from minimal measurements, with an emphasis on robust uncertainty assessment.
-Demonstrated commitment to both expanding knowledge and developing tools to aid in investigations.
+**Climate reconstruction from paleoglaciers**
+
+- Developed physically-based glacier model to estimate climate changes from minimal measurements
+- Permitted direct quantitative climatic assessments across diverse regions and settings compared to more traditional qualitative approaches
+- Additionally provided robust uncertainty quantification, allowing for more detailed risk and sensitivity assessment
 
 `2011–2012`
-**Antarctic moisture source provenance:**
-Reconstructions of changes to West Antarctic moisture source regions using deuterium excess analyses from shallow firn cores.
-Demonstrated ability to quickly develop new skills as needed.
+**Antarctic moisture source provenance**
+
+- Reconstruction of West Antarctic moisture source regions using deuterium excess analyses from shallow ice cores
+- Results indicated a greater contribution from high latitude ocean sources to West Antarctica
 
 `2012`
-**Geology intern—Forest Oil Corporation:**
-Quantified correlations between well success and various 3D seismic attributes to help identify future well sites and constrain current risk assessments.
-Demonstrated ability to identify and solve issues with little oversight and effectively communicate results to others.
+**Geology intern—Forest Oil Corporation**
+
+- Quantified correlations between well success and 3D seismic attributes to help identify future well sites and constrain risk assessments
+- Results indicated seismic anisotropy as a key predictor of well success, allowing for more targeted site exploration and selection
+- Demonstrated ability to identify and solve issues with little oversight and effectively communicate results to others.
 
 ### Leadership
 
 `2016–2021`
 **Snow Water and Ice Research Lab Manager**
-Responsible for the procurement, maintenance, and use of lab equipment, including training other lab members.
-Also included the development and implementation of standardized isotope analysis protocols and data correction software.
-Proven commitment to the mentoring and success of other lab members.
+
+- Responsible for the procurement, maintenance, and use of lab equipment, including training other lab members
+- Decreased lab procurement costs by 20+% during start up of isotope analysis component of laboratory
+- Streamlined and standardized lab operating procedures, resulting in greatly increased productivity, throughput, and accuracy
 
 `2020`
-**Research Mentor:**
-Primary research mentor for an MS graduate student validating automated methods of estimating snow accumulation for the Greenland Ice Sheet using radar.
-Demonstrated the ability to methodically divide large projects into manageable short-term goals to be accomplished by others.
+**Research Mentor**
+
+- Primary research mentor for an Master's of Science for Secondary School Teachers graduate student
+- Guided student to successful completion and defense of research investigating Greenland snow accumulation in recent decades
+- Demonstrated the ability to methodically divide large projects into manageable short-term goals to be accomplished by others
 
 `2019`
-**Course Instructor:**
-Instructor of record for the graduate-level course, Cryospheric Data Analysis.
-Developed and taught a module on Gaussian processes for a graduate level statistics course.
-Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences.
+**Course Instructor**
+
+- Instructor of record for the graduate-level course, Cryospheric Data Analysis
+- Developed and taught a module on Gaussian processes for a graduate level statistics course
+- Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences
 
 `2013–2015`
-**Teaching Assistant:**
-Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication).
-Proven ability to work patiently and empathically with individuals and groups.
+**Teaching Assistant**
 
-## Awards and Honors
+- Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication)
+- Went beyond minimum requirements (organized study sessions for students, met with them individually, etc.) to help others master the subject matter and succeed in their projects
+<!-- - Proven ability to work patiently and empathically with individuals and groups. -->
+
+## Honors and Awards
 
 `2021`
 Excellence in Research Award: University of Utah Geography Department
@@ -122,19 +138,11 @@ Best in Session Award: BYU Spring Research Conference
 `2012`
 Brigham Young University ORCA grant recipient
 
-`2006`
+<!-- `2006`
 ConocoPhillips Scholarship recipient
 
 `2004`
-VFW Voice of Democracy Scholarship recipient
-
-<!-- ## Select Publications and Presentations
-
-`2021`
-California Institute of Technology (invited talk): *Polar snow water-equivalent (SWE) from radar and density modeling*
-
-`2020`
-Brigham Young University (invited talk): *Recent trends in West Antarctic surface mass balance using automated radar echo sounding* -->
+VFW Voice of Democracy Scholarship recipient -->
 
 ---
 Last updated: July 2021
