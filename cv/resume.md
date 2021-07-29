@@ -44,7 +44,7 @@ A _[insert job-specific descriptor]_ position where I can leverage my experience
 ### Research
 
 `2016–2021`
-**Trends in Antarctic precipitation:**
+**Trends in Antarctic precipitation**
 
 - Developed and implemented computer vision algorithms to reconstruct West Antarctic precipitation time series using airborne radar data
 - Worked with other experts to implement snow density modeling within a Bayesian framework, permitting more robust uncertainty quantification
@@ -53,7 +53,7 @@ A _[insert job-specific descriptor]_ position where I can leverage my experience
 <!-- - Collaboratively worked with experts from other fields, resulting in 5 article submissions -->
 
 `2020–2021`
-**Glacio-climate zones of High Mountain Asia:**
+**Glacio-climate zones of High Mountain Asia**
 
 - Investigated High Mountain Asia glacier groups by leveraging regional climate modeling and machine learning
 - Led to doubling of predictive power of mass balance modeling based on hierarchical clustering methods
@@ -66,20 +66,20 @@ More blah.
 - Dynamic modeling of energy exchange and  -->
 
 `2013–2015`
-**Climate reconstruction from paleoglaciers:**
+**Climate reconstruction from paleoglaciers**
 
 - Developed physically-based glacier model to estimate climate changes from minimal measurements
 - Permitted direct quantitative climatic assessments across diverse regions and settings compared to more traditional qualitative approaches
 - Additionally provided robust uncertainty quantification, allowing for more detailed risk and sensitivity assessment
 
 `2011–2012`
-**Antarctic moisture source provenance:**
+**Antarctic moisture source provenance**
 
 - Reconstruction of West Antarctic moisture source regions using deuterium excess analyses from shallow ice cores
 - Results indicated a greater contribution from high latitude ocean sources to West Antarctica
 
 `2012`
-**Geology intern—Forest Oil Corporation:**
+**Geology intern—Forest Oil Corporation**
 
 - Quantified correlations between well success and 3D seismic attributes to help identify future well sites and constrain risk assessments
 - Results indicated seismic anisotropy as a key predictor of well success, allowing for more targeted site exploration and selection
@@ -95,21 +95,21 @@ More blah.
 - Streamlined and standardized lab operating procedures, resulting in greatly increased productivity, throughput, and accuracy
 
 `2020`
-**Research Mentor:**
+**Research Mentor**
 
 - Primary research mentor for an Master's of Science for Secondary School Teachers graduate student
 - Guided student to successful completion and defense of research investigating Greenland snow accumulation in recent decades
 - Demonstrated the ability to methodically divide large projects into manageable short-term goals to be accomplished by others
 
 `2019`
-**Course Instructor:**
+**Course Instructor**
 
 - Instructor of record for the graduate-level course, Cryospheric Data Analysis
 - Developed and taught a module on Gaussian processes for a graduate level statistics course
 - Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences
 
 `2013–2015`
-**Teaching Assistant:**
+**Teaching Assistant**
 
 - Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication)
 - Went beyond minimum requirements (organized study sessions for students, met with them individually, etc.) to help others master the subject matter and succeed in their projects
