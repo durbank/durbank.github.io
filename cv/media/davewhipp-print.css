@@ -74,7 +74,7 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: rgb(149, 149, 149);
 }
 
 p code {
@@ -93,11 +93,12 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
+li:before {
+	content: "●";
+	/* content: "-"; */
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -147,7 +148,7 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color: #ccc;
+	color: rgb(149, 149, 149);
 	position: relative;
 	top: 1.6em;
 	text-align: right;
