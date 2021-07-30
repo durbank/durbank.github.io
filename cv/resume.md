@@ -5,34 +5,36 @@ title: ""
 ---
 
 # Durban G. Keeler
-
+\
 Earth scientist specializing in remote sensing, spatiotemporal statistics, and machine learning
 
-[Email](durban.keeler@gmail.com) \| [Website](https://durbank.github.io/) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank)
+<!-- [Email](durban.keeler@gmail.com) \| [Website](https://durbank.github.io/) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank) -->
 
-<!-- Email: [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp;\| Website: [https://durbank.github.io/](https://durbank.github.io/) \
-Github: [https://github.com/durbank](https://github.com/durbank) \| LinkedIn: [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) -->
+**Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp; &emsp; **Website:** [https://durbank.github.io/](https://durbank.github.io/) \
+**Github:** [https://github.com/durbank](https://github.com/durbank) &emsp; **LinkedIn:** [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank)
 
 <!-- ## Objective
 
 A _[insert job-specific descriptor]_ position where I can leverage my experience in Earth Sciences, remote sensing, and machine learning. -->
 
+---
+
 ## Education
 
 `2021`
 **Ph.D.** &emsp;&emsp;&emsp;&emsp;&ensp; **University of Utah**\
-*Discipline: Geography*\
-*Emphasis: Glaciology and climatology*
+Discipline: Geography\
+Emphasis: Glaciology and climatology
 
 `2015`
 **M.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **Brigham Young University**\
-*Discipline: Geology*\
-*Emphasis: Alpine glaciology and paleoclimate*
+Discipline: Geology\
+Emphasis: Alpine glaciology and paleoclimate
 
 `2013`
 **B.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **Brigham Young University**\
-*Discipline: Geology*\
-*Minor: Physics*
+Discipline: Geology\
+Minor: Physics
 
 ## Skills
 
@@ -66,7 +68,7 @@ A _[insert job-specific descriptor]_ position where I can leverage my experience
 Blah blah blah.
 More blah.
 - Dynamic modeling of energy exchange and  -->
-
+\
 `2013–2015`
 **Climate reconstruction from paleoglaciers**
 
@@ -110,14 +112,13 @@ More blah.
 - Developed and taught a module on Gaussian processes for a graduate level statistics course
 - Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences
 
-`2013–2015`
+<!-- `2013–2015`
 **Teaching Assistant**
 
 - Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication)
-- Went beyond minimum requirements (organized study sessions for students, met with them individually, etc.) to help others master the subject matter and succeed in their projects
-<!-- - Proven ability to work patiently and empathically with individuals and groups. -->
+- Went beyond minimum requirements (organized study sessions for students, met with them individually, etc.) to help others master the subject matter and succeed in their projects -->
 
-## Honors and Awards
+<!-- ## Honors and Awards
 
 `2021`
 - Excellence in Research Award: University of Utah Geography Department
@@ -144,7 +145,8 @@ More blah.
 - ConocoPhillips Scholarship recipient
 
 `2004`
-- VFW Voice of Democracy Scholarship recipient
+- VFW Voice of Democracy Scholarship recipient -->
 
----
-Last updated: July 2021
+<!-- --- -->
+
+<!-- Last updated: July 2021 -->
