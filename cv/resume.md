@@ -8,8 +8,10 @@ title: ""
 
 Earth scientist specializing in remote sensing, spatiotemporal statistics, and machine learning
 
-[My Email](durban.keeler@gmail.com) \| [My GitHub](https://github.com/durbank) \| [My LinkedIn](www.linkedin.com/in/durbank)
-<!-- [durban.keeler@gmail.com](durban.keeler@gmail.com) \| [https://github.com/durbank](https://github.com/durbank) \| [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) -->
+[Email](durban.keeler@gmail.com) \| [Website](https://durbank.github.io/) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank)
+
+<!-- Email: [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp;\| Website: [https://durbank.github.io/](https://durbank.github.io/) \
+Github: [https://github.com/durbank](https://github.com/durbank) \| LinkedIn: [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) -->
 
 <!-- ## Objective
 
@@ -118,31 +120,31 @@ More blah.
 ## Honors and Awards
 
 `2021`
-Excellence in Research Award: University of Utah Geography Department
+- Excellence in Research Award: University of Utah Geography Department
 
 `2019`
-University of Utah Graduate Research Fellowship recipient
+- University of Utah Graduate Research Fellowship recipient
 
 `2015`
-Outstanding Teaching Award: Brigham Young University Geology Department
+- Outstanding Teaching Award: Brigham Young University Geology Department
 
 `2015`
-Best in Session Award: BYU Spring Research Conference
+- Best in Session Award: BYU Spring Research Conference
 
 `2013`
-Best in Session Award: BYU Spring Research Conference
+- Best in Session Award: BYU Spring Research Conference
 
 `2012`
-Best in Session Award: BYU Spring Research Conference
+- Best in Session Award: BYU Spring Research Conference
 
 `2012`
-Brigham Young University ORCA grant recipient
+- Brigham Young University ORCA grant recipient
 
-<!-- `2006`
-ConocoPhillips Scholarship recipient
+`2006`
+- ConocoPhillips Scholarship recipient
 
 `2004`
-VFW Voice of Democracy Scholarship recipient -->
+- VFW Voice of Democracy Scholarship recipient
 
 ---
 Last updated: July 2021
