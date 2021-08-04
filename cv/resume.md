@@ -8,10 +8,10 @@ title: ""
 \
 Earth scientist specializing in remote sensing, spatiotemporal statistics, and machine learning
 
-<!-- [Email](durban.keeler@gmail.com) \| [Website](https://durbank.github.io/) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank) -->
+[Email](durban.keeler@gmail.com) \| [Website](https://durbank.github.io/) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank)
 
-**Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp; &emsp; **Website:** [https://durbank.github.io/](https://durbank.github.io/) \
-**Github:** [https://github.com/durbank](https://github.com/durbank) &emsp; **LinkedIn:** [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank)
+<!-- **Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp; &emsp; **Website:** [https://durbank.github.io/](https://durbank.github.io/) \
+**Github:** [https://github.com/durbank](https://github.com/durbank) &emsp; **LinkedIn:** [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) -->
 
 <!-- ## Objective
 
@@ -68,7 +68,7 @@ Minor: Physics
 Blah blah blah.
 More blah.
 - Dynamic modeling of energy exchange and  -->
-\
+
 `2013–2015`
 **Climate reconstruction from paleoglaciers**
 
@@ -112,13 +112,13 @@ More blah.
 - Developed and taught a module on Gaussian processes for a graduate level statistics course
 - Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences
 
-<!-- `2013–2015`
+`2013–2015`
 **Teaching Assistant**
 
 - Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication)
-- Went beyond minimum requirements (organized study sessions for students, met with them individually, etc.) to help others master the subject matter and succeed in their projects -->
+- Went beyond minimum requirements (organized study sessions for students, met with them individually, etc.) to help others master the subject matter and succeed in their projects
 
-<!-- ## Honors and Awards
+## Honors and Awards
 
 `2021`
 - Excellence in Research Award: University of Utah Geography Department
@@ -145,8 +145,8 @@ More blah.
 - ConocoPhillips Scholarship recipient
 
 `2004`
-- VFW Voice of Democracy Scholarship recipient -->
+- VFW Voice of Democracy Scholarship recipient
 
-<!-- --- -->
+---
 
-<!-- Last updated: July 2021 -->
+Last updated: July 2021
