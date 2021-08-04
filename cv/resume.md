@@ -6,7 +6,7 @@ title: ""
 
 # Durban G. Keeler
 \
-Earth scientist specializing in remote sensing, spatiotemporal statistics, and machine learning
+Earth scientist specializing in remote sensing, computational modeling, and machine learning
 
 [Email](durban.keeler@gmail.com) \| [Website](https://durbank.github.io/) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank)
 

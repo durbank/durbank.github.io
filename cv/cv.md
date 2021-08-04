@@ -5,27 +5,30 @@ title: ""
 ---
 
 # Durban G. Keeler
+\
+Glaciologist and climate scientist specializing in remote sensing, computational modeling, and machine learning
 
-Glaciologist and climate scientist specializing in remote sensing and machine learning.
+[Email](durban.keeler@gmail.com) \| [GitHub](https://github.com/durbank) \| [Website](https://durbank.github.io/)
 
-[My Email](durban.keeler@gmail.com) \| [My Github](https://github.com/durbank)
+<!-- **Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp; &emsp; **Website:** [https://durbank.github.io/](https://durbank.github.io/) \
+**Github:** [https://github.com/durbank](https://github.com/durbank) &emsp; -->
 
 ## Education
 
 `2021`
-**Ph.D.** &emsp;&emsp;&emsp;&emsp;&emsp; **_University of Utah_**\
-*Discipline: Geography*\
-*Emphasis: Glaciology and climatology*
+**Ph.D.** &emsp;&emsp;&emsp;&emsp;&emsp; **University of Utah**\
+Discipline: Geography\
+Emphasis: Glaciology and climatology
 
 `2015`
-**M.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **_Brigham Young University_**\
-*Discipline: Geology*\
-*Emphasis: Alpine glaciology and paleoclimate*
+**M.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **Brigham Young University**\
+Discipline: Geology\
+Emphasis: Alpine glaciology and paleoclimate
 
 `2013`
-**B.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **_Brigham Young University_**\
-*Discipline: Geology*\
-*Minor: Physics*
+**B.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **Brigham Young University**\
+Discipline: Geology\
+Minor: Physics
 
 ## Publications
 
@@ -121,7 +124,6 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 - Permitted direct quantitative climatic assessments across diverse regions and settings compared to more traditional qualitative approaches
 - Additionally provided robust uncertainty quantification, allowing for more detailed risk and sensitivity assessment
 
-
 `2012-2013`
 **Glacier melt modeling and improved temperature index models**
 
@@ -143,39 +145,43 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 - Guided student to successful completion and defense of research investigating Greenland snow accumulation in recent decades
 - Demonstrated the ability to methodically divide large projects into manageable short-term goals to be accomplished by others
 
-`2019`
-**Course Instructor**
+### Instructor
 
-- Instructor of record for the graduate-level course, Cryospheric Data Analysis
+`2019`
+**Cryospheric Data Analysis: University of Utah Geography**
+
+- Instructor of record for the graduate-level course
 - Review of geochemical methods used in the cryosphere literature and processing/interpreting of analytical results from lab instruments (specifically stable water isotopes and refractory black carbon)
-- Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences
+<!-- - Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences -->
 
 `2017`
-- Developed and taught a module on Gaussian process regression for a graduate statistics course in the University of Utah Geography Department
+**Graduate Statistics: University of Utah Geography**
+
+- Developed and taught a module on Gaussian process regression
+- Included 2 weeks of oral lectures and accompanying computational lab
+
+<!-- `2015`
+**Senior field camp: BYU Geology**
+
+- Teaching assistant for the BYU Geology Department senior field camp, including helping to develop the curriculum used in the glacial geomorphology portion of the
+field camp -->
+
+### Teaching assistant
 
 `2016`
-- Developed and taught labs for an undergraduate course on snow and ice
-
-`2013–2015`
-**Teaching Assistant**
-
-- Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication)
-- Went beyond minimum requirements (organized study sessions for students, met with them individually, etc.) to help others master the subject matter and succeed in their projects
-<!-- - Proven ability to work patiently and empathically with individuals and groups. -->
+Snow and Ice: UoU Geography
 
 `2015`
-- Teaching assistant for the BYU Geology Department senior field camp, including helping to develop the curriculum used in the glacial geomorphology portion of the
-field camp
+Senior field camp: BYU Geology
 
 `2015`
-- Teaching assistant for an upper-division BYU course in Resource Geology
+Resource geology: BYU Geology
 
 `2014`
-- Teaching assistant for an upper-division BYU course on geochemistry
+Geochemistry: BYU Geology
 
-`2013`
-- Taught lab portions of an undergraduate BYU course on scientific communication (covering writing, raster/vector figure creation, and an introduction to GIS)
-- Assisted in the development of the class curriculum
+`2013-2014`
+Geologic communication: BYU Geology
 
 ## Open respositories and datasets
 
