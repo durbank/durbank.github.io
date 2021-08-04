@@ -6,12 +6,12 @@ title: ""
 
 # Durban G. Keeler
 \
-Earth scientist specializing in remote sensing, computational modeling, and machine learning
+Glaciologist and climate scientist specializing in remote sensing, computational modeling, and machine learning
+<!-- [Email](durban.keeler@gmail.com) \| [Website](https://durbank.github.io/) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank) -->
 
-[Email](durban.keeler@gmail.com) \| [Website](https://durbank.github.io/) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank)
-
-<!-- **Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp; &emsp; **Website:** [https://durbank.github.io/](https://durbank.github.io/) \
-**Github:** [https://github.com/durbank](https://github.com/durbank) &emsp; **LinkedIn:** [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) -->
+\
+**Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp; &emsp; **Website:** [https://durbank.github.io/](https://durbank.github.io/) \
+**Github:** [https://github.com/durbank](https://github.com/durbank) &emsp; **LinkedIn:** [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank)
 
 <!-- ## Objective
 
@@ -38,10 +38,10 @@ Minor: Physics
 
 ## Skills
 
-**Programming languages:** Python, R, MATLAB, bash \
+**Programming languages:** Python (e.g. xarray), R, MATLAB, bash scripting \
 **Computing:** High-performance computing, cloud computing, data visualization, version control, Linux environments \
-**Statistics:** Geostatistics, time series analysis, anomaly detection, Bayesian inference \
-**Data types:** Geospatial data, VNIR/optical imagery, radar, climate model outputs, geochemical isotopes
+**Statistics:** Spatiotemporal analysis, anomaly detection, Bayesian inference \
+**Data types:** Geospatial data, VNIR/optical imagery, radar, climate models
 
 ## Experience
 
@@ -60,34 +60,35 @@ Minor: Physics
 **Glacio-climate zones of High Mountain Asia**
 
 - Investigated High Mountain Asia glacier groups by leveraging regional climate modeling and machine learning
-- Led to doubling of predictive power of mass balance modeling based on hierarchical clustering methods
-- Important implications for water resource management within High Mountain Asia and downstream communities
+- Led to doubling of predictive power of mass balance inference models
+- Important implications for water resource management within High Mountain Asia
 
-<!-- `2016`
-**Glacier melt and hydrology modeling:**
-Blah blah blah.
-More blah.
-- Dynamic modeling of energy exchange and  -->
+`2016`
+**Glacier melt and hydrology modeling**
+
+- Surface energy and balance mass + hydrological modeling of glacier run-off
+- Modeled glacier melt and melt contribution to the Rhone Watershed
+- Demonstrated ability to identify and solve issues with little oversight and effectively communicate results to others
 
 `2013–2015`
 **Climate reconstruction from paleoglaciers**
 
-- Developed physically-based glacier model to estimate climate changes from minimal measurements
+- Developed glacier model to estimate climate changes from minimal measurements
 - Permitted direct quantitative climatic assessments across diverse regions and settings compared to more traditional qualitative approaches
-- Additionally provided robust uncertainty quantification, allowing for more detailed risk and sensitivity assessment
+- Provided robust uncertainty quantification, allowing for more detailed risk and sensitivity assessment
 
 `2011–2012`
 **Antarctic moisture source provenance**
 
 - Reconstruction of West Antarctic moisture source regions using deuterium excess analyses from shallow ice cores
-- Results indicated a greater contribution from high latitude ocean sources to West Antarctica
+- Results showed a greater contribution from high latitude sources for West Antarctica
 
-`2012`
+<!-- `2012`
 **Geology intern—Forest Oil Corporation**
 
 - Quantified correlations between well success and 3D seismic attributes to help identify future well sites and constrain risk assessments
 - Results indicated seismic anisotropy as a key predictor of well success, allowing for more targeted site exploration and selection
-- Demonstrated ability to identify and solve issues with little oversight and effectively communicate results to others.
+- Demonstrated ability to identify and solve issues with little oversight and effectively communicate results to others -->
 
 ### Leadership
 
@@ -95,7 +96,7 @@ More blah.
 **Snow Water and Ice Research Lab Manager**
 
 - Responsible for the procurement, maintenance, and use of lab equipment, including training other lab members
-- Decreased lab procurement costs by 20+% during start up of isotope analysis component of laboratory
+- Decreased lab procurement costs by 20+% during lab start up
 - Streamlined and standardized lab operating procedures, resulting in greatly increased productivity, throughput, and accuracy
 
 `2020`
@@ -116,9 +117,10 @@ More blah.
 **Teaching Assistant**
 
 - Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication)
-- Went beyond minimum requirements (organized study sessions for students, met with them individually, etc.) to help others master the subject matter and succeed in their projects
+<!-- - Went beyond minimum requirements (organized study sessions for students, met with them individually, etc.) to help others master the subject matter and succeed in their projects -->
+- Demonstrated strong interpersonal communication skills
 
-## Honors and Awards
+<!-- ## Honors and Awards
 
 `2021`
 - Excellence in Research Award: University of Utah Geography Department
@@ -149,4 +151,4 @@ More blah.
 
 ---
 
-Last updated: July 2021
+Last updated: July 2021 -->
