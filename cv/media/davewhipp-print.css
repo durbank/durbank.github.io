@@ -66,7 +66,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 60%;
+	width: 70%;
 }
 
 code {
@@ -74,13 +74,15 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: rgb(149, 149, 149);
+	color: #a00;
+	/* color: rgb(100, 100, 100); */
 }
 
 p code {
+	/* font-style: bold; */
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -5%;
 }
 
 
@@ -137,7 +139,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: 1.5em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
