@@ -120,35 +120,32 @@ Minor: Physics
 <!-- - Went beyond minimum requirements (organized study sessions for students, met with them individually, etc.) to help others master the subject matter and succeed in their projects -->
 - Demonstrated strong interpersonal communication skills
 
-<!-- ## Honors and Awards
+## Honors and Awards
 
 `2021`
-- Excellence in Research Award: University of Utah Geography Department
+Excellence in Research Award: University of Utah Geography Department
 
 `2019`
-- University of Utah Graduate Research Fellowship recipient
+University of Utah Graduate Research Fellowship recipient
 
 `2015`
-- Outstanding Teaching Award: Brigham Young University Geology Department
+Outstanding Teaching Award: Brigham Young University Geology Department
 
 `2015`
-- Best in Session Award: BYU Spring Research Conference
+Best in Session Award: BYU Spring Research Conference
 
 `2013`
-- Best in Session Award: BYU Spring Research Conference
+Best in Session Award: BYU Spring Research Conference
 
 `2012`
-- Best in Session Award: BYU Spring Research Conference
+Brigham Young University ORCA grant recipient
 
-`2012`
-- Brigham Young University ORCA grant recipient
-
-`2006`
-- ConocoPhillips Scholarship recipient
+<!-- `2006`
+ConocoPhillips Scholarship recipient
 
 `2004`
-- VFW Voice of Democracy Scholarship recipient
+VFW Voice of Democracy Scholarship recipient -->
 
----
+<!-- ---
 
 Last updated: July 2021 -->
