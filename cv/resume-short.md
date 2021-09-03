@@ -63,12 +63,7 @@ Minor: Physics
 - Led to doubling of predictive power of mass balance inference models
 - Important implications for water resource management within High Mountain Asia
 
-`2016`
-**Glacier melt and hydrology modeling**
-
-- Surface energy and balance mass + hydrological modeling of glacier run-off
-- Modeled glacier melt and melt contribution to the Rhone Watershed
-- Demonstrated ability to identify and solve issues with little oversight and effectively communicate results to others
+<br/>
 
 `2013–2015`
 **Climate reconstruction from paleoglaciers**
@@ -76,6 +71,7 @@ Minor: Physics
 - Developed glacier model to estimate climate changes from minimal measurements
 - Permitted direct quantitative climatic assessments across diverse regions and settings
 - Provided robust uncertainty quantification, allowing for more detailed sensitivity assessment
+- Additional hydrological modeling of glacier melt and runoff
 - Collaborative project with Lamont Doeherty Earth Observatory at Columbia University
 
 `2011–2012`
@@ -83,13 +79,6 @@ Minor: Physics
 
 - Reconstruction of West Antarctic moisture source regions using deuterium excess analyses from shallow ice cores
 - Results showed a greater contribution from high latitude sources for West Antarctica
-
-<!-- `2012`
-**Geology intern—Forest Oil Corporation**
-
-- Quantified correlations between well success and 3D seismic attributes to help identify future well sites and constrain risk assessments
-- Results indicated seismic anisotropy as a key predictor of well success, allowing for more targeted site exploration and selection
-- Demonstrated ability to identify and solve issues with little oversight and effectively communicate results to others -->
 
 ### Leadership
 
@@ -107,19 +96,13 @@ Minor: Physics
 - Guided student to successful completion and defense of research investigating Greenland snow accumulation in recent decades
 - Demonstrated the ability to methodically divide large projects into manageable short-term goals to be accomplished by others
 
-`2019`
+`2013-2019`
 **Course Instructor**
 
 - Instructor of record for the graduate-level course, Cryospheric Data Analysis
 - Developed and taught a module on Gaussian processes for a graduate level statistics course
-- Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences
-
-`2013–2015`
-**Teaching Assistant**
-
 - Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication)
-<!-- - Went beyond minimum requirements (organized study sessions for students, met with them individually, etc.) to help others master the subject matter and succeed in their projects -->
-- Demonstrated strong interpersonal communication skills
+- Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences
 
 ## Honors and Awards
 
