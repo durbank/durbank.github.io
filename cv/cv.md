@@ -8,10 +8,12 @@ title: ""
 \
 Glaciologist and climate scientist specializing in remote sensing, computational modeling, and machine learning
 
-[Email](durban.keeler@gmail.com) \| [GitHub](https://github.com/durbank) \| [Website](https://durbank.github.io/)
+<!-- [Email](durban.keeler@gmail.com) \| [GitHub](https://github.com/durbank) \| [Website](https://durbank.github.io/) -->
+\
+**Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp; &emsp; **Website:** [https://durbank.github.io/](https://durbank.github.io/) \
+**Github:** [https://github.com/durbank](https://github.com/durbank) &emsp; **LinkedIn:** [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank)
 
-<!-- **Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp; &emsp; **Website:** [https://durbank.github.io/](https://durbank.github.io/) \
-**Github:** [https://github.com/durbank](https://github.com/durbank) &emsp; -->
+---
 
 ## Education
 
@@ -40,11 +42,13 @@ Minor: Physics
 
 ### Submitted
 
-**Keeler, D.G.**, Rupper, S., Forster, R.R. (_2021+_) Repeatability of Polar Snow Accumulation Time Series from Interannual Repeat Radar Echograms. _IEEE Geoscience and Remote Sensing Letters_.
-
 White, P.A., **Keeler, D.G.**, Sheanshang, D., Rupper, S. (_2020+_). Improving Interpretable Piecewise Linear Models through Hierarchical Spatial and Functional Smoothing. _Environmetrics_, [http://arxiv.org/abs/2006.09329](http://arxiv.org/abs/2006.09329)
 
 ### Published
+
+`2021`
+
+**Keeler, D.G.**, Rupper, S., Forster, R.R. (*in press*) Repeatability of Polar Snow Accumulation Time Series from Interannual Repeat Radar Echograms. _IEEE Geoscience and Remote Sensing Letters_.
 
 Sheanshang, D., White, P.A., **Keeler, D.G.**, (*in press*). Snow Density Mixture Modelling with a Semiparametric Prior Density Process for Outlier Identification. _Journal of the Royal Statistical Society, Series C (Applied Statistics)_
 
@@ -52,10 +56,13 @@ White, P. A., **Keeler, D. G.**, & Rupper, S. (2021). Hierarchical integrated sp
 
 **Keeler, D. G.**, Rupper, S., & Schaefer, J. M. (2021). A first-order flexible ELA model based on geomorphic constraints. _MethodsX_, 8, 101173. [https://doi.org/10.1016/j.mex.2020.101173](https://doi.org/10.1016/j.mex.2020.101173)
 
+`2020`
 **Keeler, D. G.**, Rupper, S. B., Forster, R., & Miège, C. (2020). A Probabilistic Automated Isochrone Picking Routine to Derive Annual Surface Mass Balance From Radar Echograms. _IEEE Transactions on Geoscience and Remote Sensing_, 58(12), 8598–8611. [https://doi.org/10.1109/TGRS.2020.2989102](https://doi.org/10.1109/TGRS.2020.2989102)
 
+`2013`
 Burgener, L., Rupper, S., Koenig, L., Forster, R., Christensen, W. F., Williams, J., Koutnik, M., Miege, C., Steig, E.J., Tingey, D., **Keeler, D.G.**, Riley, L. (2013). An observed negative trend in West Antarctic accumulation rates from 1975 to 2010: Evidence from new observed and simulated records. _Journal of Geophysical Research-Atmospheres_, 118(10), 4205–4216. [https://doi.org/10.1002/jgrd.50362](https://doi.org/10.1002/jgrd.50362)
 
+`2012`
 McBride, J. H., Rupper, S. B., Ritter, S. M., Tingey, D. G., Koutnik, M. R., Quick, A. M., Morris, T.H., Keach, R.W., Burgener, L.K., McKean, A.P., Williams, J., Maurer, J.M., **Keeler, D.G.**, Windell, R. (2012). Radar scattering in an alpine glacier: Evidence of seasonal development of temperate ice beneath ogives. _Geosphere_, 8(5), 1054–1077. [https://doi.org/10.1130/GES00804.1](https://doi.org/10.1130/GES00804.1)
 
 ## Presentations
@@ -68,12 +75,11 @@ California Institute of Technology, Climate Modeling Alliance: *Polar snow water
 `2020`
 Brigham Young University, Department of Geological Sciences: *Recent trends in West Antarctic surface mass balance using automated radar echo sounding*
 
-### Conference talks
+### Conferences
 
 `2019`
 Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical Forcing of West Antarctic Ice Sheet Surface Mass Balance Variability_. AGU 2019 Fall Meeting
 
-`2019`
 **Keeler, D.G.**, Rupper, S., White, P.A., Miège, C., Forster, R.R. (poster) _Integrated Trends in Annual Accumulation Across West Antarctica from Operation IceBridge Snow Radar_. AGU 2019 Fall Meeting
 
 `2018`
@@ -91,14 +97,12 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 `2012`
 **Keeler, D.G.**, Rupper, S., Burgener, L. _Temporal variability in precipitation source regions for deuterium excess records in the West Antarctic Ice Sheet Divide: 1975 to 2011._ BYU 2012 Spring Research Conference.
 
-## Research Experience
+<br/>
+<br/>
 
-`2020-Present`
-**Glacio-climate zonation of High Mountain Asia**
+## Experience
 
-- Investigated High Mountain Asia glacier groups by leveraging regional climate modeling and machine learning
-- Led to doubling of predictive power of mass balance modeling based on hierarchical clustering methods
-- Important implications for water resource management within High Mountain Asia and downstream communities
+### Research
 
 `2016-Present`
 **Reconstruction of surface mass balance time series from radar**
@@ -107,28 +111,36 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 - Worked with other experts to implement snow density modeling within a Bayesian framework, permitting more robust uncertainty quantification
 - Led to a fully automated, scalable workflow that increased available data over 300x compared to in-situ observations
 - Results demonstrated important changes to West Antarctic moisture transport with implications on future sea level
-- Collaboratively worked with experts from other fields, resulting in 5 article submissions
+<!-- - Collaboratively worked with experts from other fields, resulting in 5 article submissions -->
 
-`2015-Present`
-**University of Utah Snow Water and Ice Research Lab Manager**
+`2020-Present`
+**Glacio-climate zonation of High Mountain Asia**
 
-- Responsible for the procurement, maintenance, and use of lab equipment, including training other lab members
-- Decreased lab procurement costs by 20+% during start up of isotope analysis component of laboratory
-- Streamlined and standardized lab operating procedures, resulting in greatly increased productivity, throughput, and accuracy
+- Investigated High Mountain Asia glacier groups by leveraging regional climate modeling and machine learning
+- Led to doubling of predictive power of mass balance modeling based on hierarchical clustering methods
+- Important implications for water resource management within High Mountain Asia and downstream communities
+
+`2016`
+**Glacier melt and hydrology modeling**
+
+- Modeled glacier melt and melt contribution to the Rhone Watershed
+- Developed and implemented a surface energy and mass balance + hydrological glacier melt model to simulate melt runoff throughout the year
+- Demonstrated ability to identify and solve issues with little oversight and effectively communicate results to others
 
 `2013-2015`
 **Paleoclimate reconstructions from glacial record**
 
-- Developed physically-based glacier model to estimate climate changes from minimal measurements
-- Included the development and implementation of a physically based ELA model, lab preparation and analysis of Be-10 for cosmogenic radionuclide dating, field mapping/sampling of glacial moraines and glacial melt water, and building surface energy and mass balance and hydrology routing models for glacier melt
-- Permitted direct quantitative climatic assessments across diverse regions and settings compared to more traditional qualitative approaches
-- Additionally provided robust uncertainty quantification, allowing for more detailed risk and sensitivity assessment
+- Developed glacier model to estimate climate changes from minimal measurements
+- Collaboration with researchers at Lamont Doherty Earth Observatory for cosmogenic radionuclide dating of samples
+- Permitted direct quantitative climatic assessments across diverse regions and settings
+- Provided robust uncertainty quantification, allowing for more detailed sensitivity assessment
+- Results indicated cooling of summertime temperatures were responsible for Swiss glacier advances during the Younger Dryas (~12,000 years BCE)
 
-`2012-2013`
+<!-- `2012-2013`
 **Glacier melt modeling and improved temperature index models**
 
-- Optimized improvements to temperature index modeling for alpine glaciers.
-- Statistical modeling of the influence of various climate parameters (derived from a glacial surface mass-energy balance model) on glacial melt rates
+- Optimized improvements to temperature index modeling for alpine glaciers
+- Statistical modeling of the influence of various climate parameters (derived from a glacial surface mass-energy balance model) on glacial melt rates -->
 
 `2011-2012`
 **Provenance of West Antarctic moisture using deuterium excess**
@@ -136,29 +148,43 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 - Reconstruction of West Antarctic moisture source regions using deuterium excess analyses from shallow ice cores
 - Results indicated a greater contribution from high latitude ocean sources to West Antarctica
 
-## Teaching Experience
+### Leadership
+
+`2015-Present`
+**University of Utah Snow Water and Ice Research Lab Manager**
+
+- Responsible for the procurement, maintenance, and use of lab equipment and training of lab members
+- Decreased lab procurement costs by 20+% during lab start up
+- Streamlined and standardized lab operating procedures, resulting in greatly increased productivity, throughput, and accuracy
 
 `2020`
-**Research Mentor**
+**Research Mentor: University of Utah Geography**
 
 - Primary research mentor for an Master's of Science for Secondary School Teachers graduate student at the University of Utah
 - Guided student to successful completion and defense of research investigating Greenland snow accumulation in recent decades
 - Demonstrated the ability to methodically divide large projects into manageable short-term goals to be accomplished by others
 
-### Instructor
+`2017-2019`
+**Course instructor: University of Utah Geography**
+
+- Instructor of record for the graduate-level course: Cryospheric Data Analysis
+- Developed and taught a module on Gaussian process regression for graduate level statistics course
+- Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences
+
+<!-- ### Instructor
 
 `2019`
 **Cryospheric Data Analysis: University of Utah Geography**
 
 - Instructor of record for the graduate-level course
 - Review of geochemical methods used in the cryosphere literature and processing/interpreting of analytical results from lab instruments (specifically stable water isotopes and refractory black carbon)
-<!-- - Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences -->
+- Proven ability to convey complex topics in approachable and intuitive formats to diverse audiences
 
 `2017`
 **Graduate Statistics: University of Utah Geography**
 
 - Developed and taught a module on Gaussian process regression
-- Included 2 weeks of oral lectures and accompanying computational lab
+- Included 2 weeks of oral lectures and accompanying computational lab -->
 
 <!-- `2015`
 **Senior field camp: BYU Geology**
@@ -166,9 +192,14 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 - Teaching assistant for the BYU Geology Department senior field camp, including helping to develop the curriculum used in the glacial geomorphology portion of the
 field camp -->
 
-### Teaching assistant
+`2013-2015`
+**Teaching assistant: Brigham Young University Geology**
 
-`2016`
+- Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication)
+- Helped develop course curricula used in Senior Field Camp and Geologic Communication
+- Demonstrated strong interpersonal communication skills and ability to foster an inclusive and productive environment
+
+<!-- `2016`
 Snow and Ice: UoU Geography
 
 `2015`
@@ -181,9 +212,9 @@ Resource geology: BYU Geology
 Geochemistry: BYU Geology
 
 `2013-2014`
-Geologic communication: BYU Geology
+Geologic communication: BYU Geology -->
 
-## Open respositories and datasets
+<!-- ## Open respositories and datasets
 
 `2020`
 [Glacier ELA model based on geomorphic constraints](https://github.com/durbank/ELA-model): A simple model to estimate the ELA of current or former glaciers based on their hypsometry and areal extent.
@@ -195,9 +226,9 @@ Geologic communication: BYU Geology
 [The Probabilistic Automated Picking Routine (PAIPR)](https://github.com/durbank/PAIPR): Computer vision algorithms to reconstruct snow accumulation time series in polar regions using airborne radar in a scalable and probabilistic fashion.
 
 `2018`
-[IsoReduce – Data reduction for stable water isotope data](https://github.com/UofU-Cryosphere/IsoReduce): Software to reduce raw stable water isotope data from a Picarro analyzer, including automatic memory, drift, and bias corrections.
+[IsoReduce – Data reduction for stable water isotope data](https://github.com/UofU-Cryosphere/IsoReduce): Software to reduce raw stable water isotope data from a Picarro analyzer, including automatic memory, drift, and bias corrections. -->
 
-## Grants and Awards
+## Honors and Awards
 
 `2021`
 Excellence in Research Award: University of Utah Geography Department
@@ -228,17 +259,17 @@ VFW Voice of Democracy Scholarship recipient
 
 ## Service and Outreach
 
-`2017-2018`
-Served as the graduate student representative for University of Utah Geography Department faculty meetings
+`2018`
+Graduate Student Representative for University of Utah Geography Department
 
 `2017`
-Participated in a Himalayan Cataract Project outreach in Ethiopia, working to cure blindness through medical operations and local training
+Himalayan Cataract Project outreach in Ethiopia, working to cure blindness through medical operations and local training
 
-`2014-2015`
-Served as the Vice President of the BYU Geology Club
+`2015`
+Vice President of the BYU Geology Club
 
-`2012-2014`
-Helped organize and participated in a volunteer tutoring program for under-served K-12 students
+`2014`
+Organized volunteer tutoring program for under-served K-12 students
 
----
-Last updated: July 2021
+<!-- ---
+Last updated: July 2021 -->
