@@ -6,12 +6,12 @@ title: ""
 
 # Durban G. Keeler
 \
-Glaciologist and climate scientist specializing in remote sensing, computational modeling, and machine learning
+Earth and climate scientist specializing in remote sensing, computational modeling, and machine learning
 
-<!-- [Email](durban.keeler@gmail.com) \| [GitHub](https://github.com/durbank) \| [Website](https://durbank.github.io/) -->
 \
-**Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp; &emsp; **Website:** [https://durbank.github.io/](https://durbank.github.io/) \
-**Github:** [https://github.com/durbank](https://github.com/durbank) &emsp; **LinkedIn:** [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank)
+[Email](durban.keeler@gmail.com) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank) \| [Website](https://durbank.github.io/)
+<!-- **Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp; &emsp; **Website:** [https://durbank.github.io/](https://durbank.github.io/) \
+**Github:** [https://github.com/durbank](https://github.com/durbank) &emsp; **LinkedIn:** [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) -->
 
 ---
 
@@ -97,8 +97,8 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 `2012`
 **Keeler, D.G.**, Rupper, S., Burgener, L. _Temporal variability in precipitation source regions for deuterium excess records in the West Antarctic Ice Sheet Divide: 1975 to 2011._ BYU 2012 Spring Research Conference.
 
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
 ## Experience
 
@@ -271,5 +271,5 @@ Vice President of the BYU Geology Club
 `2014`
 Organized volunteer tutoring program for under-served K-12 students
 
-<!-- ---
-Last updated: July 2021 -->
+---
+Last updated: August 2021
