@@ -6,7 +6,7 @@ title: ""
 
 # Durban G. Keeler
 \
-Glaciologist and climate scientist specializing in remote sensing, computational modeling, and machine learning
+Glaciologist and climate scientist specializing in advanced statistical analysis, remote sensing, and stochastic modeling
 <!-- [Email](durban.keeler@gmail.com) \| [Website](https://durbank.github.io/) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank) -->
 
 \
@@ -40,14 +40,27 @@ Minor: Physics
 
 **Programming languages:** Python, R, MATLAB, bash scripting \
 **Computing:** High-performance/cloud computing, data visualization, version control, Linux environments \
-**Statistics:** Spatiotemporal analysis, machine learning, Bayesian inference \
-**Data types:** Geospatial data, VNIR/optical imagery, radar, climate models
+**Statistics:** Spatiotemporal analysis, machine learning, Bayesian statistical methods \
+**Data types:** GIS, Geospatial data, VNIR/optical imagery, radar, climate models
 
 ## Experience
 
 ### Research
 
+- Oversaw multiple projects including...
+- Exception organizational skills and attention to detail exhibited through...
+- Ability to work independently and autonomously
+- Ability to work both independently and collaboratively on projects
+- Excellent written and oral communication skills, including the ability to effectively communicate complex, technical issues to non-expert audiences
+  - Presentations at conferences, published literature
+  - Teaching and developing courses
+- Use of climate data and modeling to infer actionable information
+- 
+
 `2016–2021`
+**Doctoral researcher: University of Utah**
+
+
 **Trends in Antarctic precipitation**
 
 - Developed and implemented computer vision algorithms to reconstruct West Antarctic precipitation time series using airborne radar data
@@ -66,6 +79,8 @@ Minor: Physics
 <br/>
 
 `2013–2015`
+**Graduate Student Researcher: Brigham Young University
+
 **Climate reconstruction from paleoglaciers**
 
 - Developed glacier model to estimate climate changes from minimal measurements
@@ -74,7 +89,9 @@ Minor: Physics
 - Additional hydrological modeling of glacier melt and runoff
 - Collaborative project with Lamont Doeherty Earth Observatory at Columbia University
 
-`2011–2012`
+`2011–2013`
+**Undergraduate Researcher: Brigham Young University**
+
 **Antarctic moisture source provenance**
 
 - Reconstruction of West Antarctic moisture source regions using deuterium excess analyses from shallow ice cores
