@@ -19,110 +19,128 @@ A _[insert job-specific descriptor]_ position where I can leverage my experience
 
 ---
 
-## Skills
+## EDUCATION
+
+`Aug 2021`
+**Ph.D. Geography (Glaciology and Climatology)**\
+University of Utah, Salt Lake City, Utah
+
+`Dec 2015`
+**M.S. Geology (Alpine Glaciology and Paleoclimatology)**\
+Brigham Young University, Provo, Utah
+
+`Aug 2013`
+**B.S. Geology (Physics Minor)**\
+Brigham Young University, Provo, Utah
+
+## SKILLS
 
 **Programming languages:** Python, R, MATLAB, bash scripting \
 **Computing:** High-performance/scientific computing, data visualization, version control, Linux environments \
 **Statistics:** Spatiotemporal analysis, machine learning, probabilistic programming, Bayesian statistical methods \
 **Data types:** GIS, geospatial data, climate models, VNIR/optical imagery, radar
 
-## Education
+## EXPERIENCE
 
-`2021`
-**Ph.D.** &emsp;&emsp;&emsp;&emsp;&ensp; **University of Utah**\
-Discipline: Geography\
-Emphasis: Glaciology and climatology
-
-`2015`
-**M.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **Brigham Young University**\
-Discipline: Geology\
-Emphasis: Alpine glaciology and paleoclimate
-
-`2013`
-**B.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **Brigham Young University**\
-Discipline: Geology\
-Minor: Physics
-
-## Experience
-
-### Research
-
-`2016–2021`
+`Sept 2016–Aug 2021`
 **Doctoral researcher: University of Utah**
 
-- Self-directed and collaborative projects focused on the global cryosphere
-- Developed/implemented computer vision algorithms to reconstruct polar precipitation time series from radar
-- Fully automated, scalable workflow, increasing available data ~300x compared to in-situ observations
-- Collaborative research to implement a hierarchical Bayesian polar snow density model, permitting robust uncertainty quantification
-- Excellent written and oral communication skills, evident in numerous publications and conference presentations
+Reconstruction of polar precipitation time series from radar and assessment of the climatic significance.
+
+- Developed automated scalable computer vision algorithms that increased available data >300x compared to in-situ observations
+- Collaborated with statisticians to implement a hierarchical Bayesian polar snow density model
+- Communicated findings in numerous publications and conference presentations
 
 <!-- - Assessment of High Mountain Asia glacio-climate zones through leveraging of regional climate modeling and machine learning
 - Increased predictive power of glacier storage inference models, with important implications for water resource management -->
 
-`2013–2015`
+`Jan 2016–Sept 2021`
+**Snow Water and Ice Research Lab Manager: University of Utah**
+
+_Oversaw lab purchasing, equipment maintenance, development of standard operating procedures, and training of lab members._
+
+- Decreased procurement costs by 20+% during lab start up
+- Improved lab coordination by initiating regular reports on status of equipment
+- Increased productivity/accuracy by creating standard operating procedures
+- Mentored 14 students in completing and successfully defending research theses
+- Methodically divide large projects into manageable short-term goals to be accomplished by others
+
+`Jan 2017–Dec 2019`
+**Course Instructor: University of Utah**
+
+A brief description of the role...
+
+- Instructor of record for graduate-level course (Cryospheric Data Analysis)
+- Developed and taught module on Gaussian processes for graduate level statistics course
+- Demonstrated initiative and creativity in crafting engaging lectures and informative labs
+
+`Sept 2013–Dec 2015`
 **Graduate Student Researcher: Brigham Young University**
+
+A brief description of the role...
 
 - Autonomous research of glacier responses to past abrupt climate changes
 - Developed stochastic glacier model to estimate climate changes from minimal paleoglacier measurements
 - Collaborative project with Columbia University to constrain ages of glacier responses
 - Results demonstrated changes in summertime temperature as primary mechanism for European Alps glacier changes
 
+`Sept 2013–Aug 2015`
+**Graduate Teaching Assistant: Brigham Young University**
+
+A brief description of the role...
+
+- Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication)
+- Helped redesign and update courses, including courses for field camp and introductory ArcGIS
+- Proven ability to effectively communicate complex, technical issues to non-expert audiences in intuitive forms
+
 <!-- - Hydrological modeling of glacier melt and run-off to inform future river flow used in French nuclear reactor cooling -->
 
-`2011–2013`
+`Sept 2011–June 2013`
 **Undergraduate Researcher: Brigham Young University**
+
+A brief description of the role...
 
 - Reconstruction of Antarctic moisture sources using deuterium excess analyses
 - Important implications for understanding atmospheric circulation and moisture transport in the Southern Hemisphere
 - Included geochemical analysis, statistical analysis, and atmospheric interpretation
 - Results showed a greater contribution from high latitude sources for West Antarctica
 
-### Leadership
+`May 2012–Aug 2012`
+**Geology intern: Forest Oil Corp.**
 
-`2016–2021`
-**Snow Water and Ice Research Lab Manager: University of Utah**
+A brief description of the role...
 
-- Responsible for the procurement, maintenance, and use of lab equipment
-- Decreased lab procurement costs by 20+% during lab start up
-- Streamlined and standardized lab operating procedures, resulting in greatly increased productivity, throughput, and accuracy
-- Provided formal and informal training and research guidance
-- Assisted 14 graduate students in completing and successfully defending research theses, including as lead research advisor
-<!-- - Primary research advisor for one Master's student, resulting in successful completion and defense of research (December 2020) -->
-- Demonstrated ability to methodically divide large projects into manageable short-term goals to be accomplished by others
+- Blah blah blah
+- Blah blah blah
+- Blah blah blah
 
-`2017–2019`
-**Course Instructor: University of Utah**
+`Sept 2009–May 2011`
+**Admissions and Financial Aid Associate: BYU Student Services**
 
-- Instructor of record for graduate-level course (Cryospheric Data Analysis)
-- Developed and taught module on Gaussian processes for graduate level statistics course
-- Demonstrated initiative and creativity in crafting engaging lectures and informative labs
-- Exceptional organizational skills and attention to detail demonstrated through methodical instruction in advanced topics
+A brief description of the role...
 
-`2013–2015`
-**Graduate Teaching Assistant: Brigham Young University**
+- Blah blah blah
+- Blah blah blah
+- Blah blah blah
 
-- Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication)
-- Helped redesign and update courses, including courses for field camp and introductory ArcGIS
-- Proven ability to effectively communicate complex, technical issues to non-expert audiences in intuitive forms
+## HONORS AND AWARDS
 
-## Honors and Awards
-
-`2021`
+`May 2021`
 Excellence in Research Award: University of Utah Geography Department
 
-`2019`
+`Aug 2019`
 University of Utah Graduate Research Fellowship recipient
 
-`2015`
-Outstanding Teaching Award: Brigham Young University Geology Department
+`May 2015`
+Outstanding Teaching Award: BYU Geology Department
 
-`2015`
+`April 2015`
 Best in Session Award: BYU Spring Research Conference
 
-`2013`
+`April 2013`
 Best in Session Award: BYU Spring Research Conference
 
-`2012`
+`Aug 2012`
 Brigham Young University ORCA grant recipient
 
 <!-- `2006`
