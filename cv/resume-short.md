@@ -23,7 +23,7 @@ A _[insert job-specific descriptor]_ position where I can leverage my experience
 
 **Programming languages:** Python, R, MATLAB, bash scripting \
 **Computing:** High-performance/scientific computing, data visualization, version control, Linux environments \
-**Statistics:** Spatiotemporal analysis, machine learning, Bayesian statistical methods \
+**Statistics:** Spatiotemporal analysis, machine learning, probabilistic programming, Bayesian statistical methods \
 **Data types:** GIS, geospatial data, climate models, VNIR/optical imagery, radar
 
 ## Education
@@ -53,7 +53,7 @@ Minor: Physics
 - Self-directed and collaborative projects focused on the global cryosphere
 - Developed/implemented computer vision algorithms to reconstruct polar precipitation time series from radar
 - Fully automated, scalable workflow, increasing available data ~300x compared to in-situ observations
-- Collaborative research to implement a hierarchical Bayesian polar snow density model, permitting more robust uncertainty quantification
+- Collaborative research to implement a hierarchical Bayesian polar snow density model, permitting robust uncertainty quantification
 - Excellent written and oral communication skills, evident in numerous publications and conference presentations
 
 <!-- - Assessment of High Mountain Asia glacio-climate zones through leveraging of regional climate modeling and machine learning
@@ -63,15 +63,18 @@ Minor: Physics
 **Graduate Student Researcher: Brigham Young University**
 
 - Autonomous research of glacier responses to past abrupt climate changes
-- Developed stochastic glacier model to estimate climate changes from minimal measurements, providing more robust uncertainty quantification
-- Collaborative project with Lamont Doeherty Earth Observatory at Columbia University to constrain ages of glacier responses
+- Developed stochastic glacier model to estimate climate changes from minimal paleoglacier measurements
+- Collaborative project with Columbia University to constrain ages of glacier responses
+- Results demonstrated changes in summertime temperature as primary mechanism for European Alps glacier changes
 
 <!-- - Hydrological modeling of glacier melt and run-off to inform future river flow used in French nuclear reactor cooling -->
 
 `2011–2013`
 **Undergraduate Researcher: Brigham Young University**
 
-- Reconstruction of West Antarctic moisture source regions using deuterium excess analyses from shallow ice cores
+- Reconstruction of Antarctic moisture sources using deuterium excess analyses
+- Important implications for understanding atmospheric circulation and moisture transport in the Southern Hemisphere
+- Included geochemical analysis, statistical analysis, and atmospheric interpretation
 - Results showed a greater contribution from high latitude sources for West Antarctica
 
 ### Leadership
@@ -79,17 +82,20 @@ Minor: Physics
 `2016–2021`
 **Snow Water and Ice Research Lab Manager: University of Utah**
 
-- Responsible for the procurement, maintenance, training, and use of lab equipment
+- Responsible for the procurement, maintenance, and use of lab equipment
 - Decreased lab procurement costs by 20+% during lab start up
 - Streamlined and standardized lab operating procedures, resulting in greatly increased productivity, throughput, and accuracy
-- Primary research advisor for one Master's student, resulting in successful completion and defense of research (December 2020)
-- Demonstrated the ability to methodically divide large projects into manageable short-term goals to be accomplished by others
+- Provided formal and informal training and research guidance
+- Assisted 14 graduate students in completing and successfully defending research theses, including as lead research advisor
+<!-- - Primary research advisor for one Master's student, resulting in successful completion and defense of research (December 2020) -->
+- Demonstrated ability to methodically divide large projects into manageable short-term goals to be accomplished by others
 
 `2017–2019`
 **Course Instructor: University of Utah**
 
-- Instructor of record for graduate-level course (Cryospheric Data Analysis: Fall 2019)
+- Instructor of record for graduate-level course (Cryospheric Data Analysis)
 - Developed and taught module on Gaussian processes for graduate level statistics course
+- Demonstrated initiative and creativity in crafting engaging lectures and informative labs
 - Exceptional organizational skills and attention to detail demonstrated through methodical instruction in advanced topics
 
 `2013–2015`
@@ -97,7 +103,7 @@ Minor: Physics
 
 - Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication)
 - Helped redesign and update courses, including courses for field camp and introductory ArcGIS
-- Proven ability to effectively communicate complex, technical issues to non-expert audiences
+- Proven ability to effectively communicate complex, technical issues to non-expert audiences in intuitive forms
 
 ## Honors and Awards
 
