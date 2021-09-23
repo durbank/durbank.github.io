@@ -1,6 +1,6 @@
 ---
 layout: cv
-style: davewhipp
+style: cv
 title: ""
 ---
 
@@ -17,20 +17,17 @@ Earth and climate scientist specializing in remote sensing, computational modeli
 
 ## Education
 
-`2021`
-**Ph.D.** &emsp;&emsp;&emsp;&emsp;&emsp; **University of Utah**\
-Discipline: Geography\
-Emphasis: Glaciology and climatology
+`Aug 2021`
+**Ph.D. Geography (Glaciology and Climatology)**\
+University of Utah, Salt Lake City, Utah
 
-`2015`
-**M.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **Brigham Young University**\
-Discipline: Geology\
-Emphasis: Alpine glaciology and paleoclimate
+`Dec 2015`
+**M.S. Geology (Alpine Glaciology and Paleoclimatology)**\
+Brigham Young University, Provo, Utah
 
-`2013`
-**B.S.** &emsp;&emsp;&emsp;&emsp;&emsp; **Brigham Young University**\
-Discipline: Geology\
-Minor: Physics
+`Aug 2013`
+**B.S. Geology (Physics Minor)**\
+Brigham Young University, Provo, Utah
 
 ## Publications
 
@@ -47,7 +44,6 @@ White, P.A., **Keeler, D.G.**, Sheanshang, D., Rupper, S. (_2020+_). Improving I
 ### Published
 
 `2021`
-
 **Keeler, D.G.**, Rupper, S., Forster, R.R. (*in press*) Repeatability of Polar Snow Accumulation Time Series from Interannual Repeat Radar Echograms. _IEEE Geoscience and Remote Sensing Letters_.
 
 Sheanshang, D., White, P.A., **Keeler, D.G.**, (*in press*). Snow Density Mixture Modelling with a Semiparametric Prior Density Process for Outlier Identification. _Journal of the Royal Statistical Society, Series C (Applied Statistics)_

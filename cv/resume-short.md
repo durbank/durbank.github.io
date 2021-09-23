@@ -1,6 +1,6 @@
 ---
 layout: cv
-style: davewhipp
+style: resume
 title: ""
 ---
 
