@@ -56,17 +56,20 @@ body {
 	font-size: 12pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
+	/* font-family: Avenir,Verdana,sans-serif; */
+	font-family: Avenir,Verdana,serif;
 	/* margin-top: 1em; */
 	/* margin-left: 1em; */
 }
 
 p {
 	position: relative;
-	left: 25%;
+	/* left: 25%; */
+	left: 18%;
 	margin-bottom: 0.2em;
-	margin-right: 5%;
-	width: 70%;
+	margin-right: 2%;
+	/* width: 70%; */
+	width: 80%;
 }
 
 code {
@@ -82,14 +85,14 @@ p code {
 	/* font-style: bold; */
 	position: absolute;
 	text-align: right;
-	right: -5%;
+	right: 0%;
 }
 
 
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 20%;
+	width: 80%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
@@ -143,7 +146,8 @@ h2 {
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 20%;
+	/* width: 20%; */
+	width: 15%;
 }
 
 
@@ -154,7 +158,8 @@ h3 {
 	position: relative;
 	top: 1.6em;
 	text-align: right;
-	width: 20%;
+	/* width: 20%; */
+	width: 15%;
 }
 
 a {
