@@ -5,7 +5,4 @@
 layout: home
 ---
 
-**\*\*\*UNDER CONSTRUCTION\*\*\***
-
-This landing page is still being developed, as are some of the pages in the top navigation bar.
-Feel free to look at content, but realize that some things may not be in a final polished form.
+The personal and academic website for Durban G. Keeler, Ph.D.

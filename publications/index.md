@@ -4,17 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-## \*\*\*UNDER CONSTRUCTION\*\*\*
-
-A page to include links/copies of my publications, along with brief descriptions of the research.
+A list of peer-reviewed articles, presentations, and repositories with which I have been involved.
 
 ## Peer-reviewed articles
 
-**Keeler, D.G.**, Rupper, S., Forster, R.R. *(in review)* Repeatability of Polar Snow Accumulation Time Series from Interannual Repeat Radar Echograms. IEEE Geoscience and Remote Sensing Letters.
+**Keeler, D.G.**, Rupper, S., Forster, R.R. *(in press)* Repeatability of Polar Snow Accumulation Time Series from Interannual Repeat Radar Echograms. IEEE Geoscience and Remote Sensing Letters.
 
-Sheanshang, D., White, P.A., **Keeler, D.G.**, *(in review)*. Snow Density Mixture Modelling with a Semiparametric Prior Density Process for Outlier Identification. Journal of the Royal Statistical Society, Series C (Applied Statistics)
+Sheanshang, D. M., White, P. A., & **Keeler, D. G.** (2021). Outlier accommodation with semiparametric density processes: A study of Antarctic snow density modelling: Statistical Modelling. [https://doi.org/10.1177/1471082X211043946](https://doi.org/10.1177/1471082X211043946)
 
-White, P.A., **Keeler, D.G.**, Rupper, S. *(in press)*. Hierarchical Integrated Spatial Process Modeling of Monotone West Antarctic Snow Density Curves. Annals of Applied Statistics. [https://arxiv.org/abs/2001.05520](https://arxiv.org/abs/2001.05520)
+White, P. A., **Keeler, D. G.**, & Rupper, S. (2021). Hierarchical integrated spatial process modeling of monotone West Antarctic snow density curves. The Annals of Applied Statistics, 15(2), 556–571. [https://doi.org/10.1214/21-AOAS1443](https://doi.org/10.1214/21-AOAS1443)
 
 **Keeler, D. G.**, Rupper, S., & Schaefer, J. M. (2021). A first-order flexible ELA model based on geomorphic constraints. MethodsX, 8, 101173. [https://doi.org/10.1016/j.mex.2020.101173](https://doi.org/10.1016/j.mex.2020.101173)
 
