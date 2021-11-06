@@ -54,7 +54,7 @@ Supervised lab purchasing, equipment maintenance, development of standard operat
 - Methodically divided large projects into manageable short-term goals to be accomplished by others
 
 `Sept 2016–Aug 2021`
-**Doctoral researcher: University of Utah**
+**Doctoral Researcher: University of Utah**
 
 Reconstructed polar precipitation time series from radar and assessed their climatic significance using machine learning and Bayesian inference.
 Results demonstrated decreased precipitation in central West Antarctica, indicating changes in hemispheric moisture transport.

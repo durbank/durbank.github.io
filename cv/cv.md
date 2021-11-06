@@ -6,16 +6,17 @@ title: ""
 
 # Durban G. Keeler
 \
-Earth and climate scientist specializing in remote sensing, computational modeling, and machine learning
+Earth and climate scientist specializing in remote sensing, Bayesian inference, and machine learning applied to the cryosphere
 
 \
-[Email](durban.keeler@gmail.com) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank) \| [Website](https://durbank.github.io/)
-<!-- **Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp; &emsp; **Website:** [https://durbank.github.io/](https://durbank.github.io/) \
-**Github:** [https://github.com/durbank](https://github.com/durbank) &emsp; **LinkedIn:** [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) -->
+<!-- [Email](durban.keeler@gmail.com) \| [GitHub](https://github.com/durbank) \| [Website](http://DrDurban.me) -->
+**Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) \
+**Website:** [www.DrDurban.me](http://DrDurban.me) \
+**GitHub:** [https://github.com/durbank](https://github.com/durbank)
 
 ---
 
-## Education
+## EDUCATION
 
 `Aug 2021`
 **Ph.D. Geography (Glaciology and Climatology)**\
@@ -29,26 +30,26 @@ Brigham Young University, Provo, Utah
 **B.S. Geology (Physics Minor)**\
 Brigham Young University, Provo, Utah
 
-## Publications
+## PUBLICATIONS
 
 ### In prep
 
-**Keeler, D.G.**, Rupper, S. (_2021+_) Glacio-climatic controls on glacier mass balance in High Mountain Asia.
+**Keeler, D.G.**, Rupper, S. Brewer, S., Forster, R.R., (_2021+_) Glacio-climatic controls on glacier mass balance in High Mountain Asia.
 
 **Keeler, D.G.**, Rupper, S., Forster, R.R., White, P.A., (_2021+_). Extensive negative trends in Central West Antarctic surface mass balance over recent decades. _Nature Geoscience_.
 
 ### Submitted
 
-White, P.A., **Keeler, D.G.**, Sheanshang, D., Rupper, S. (_2020+_). Improving Interpretable Piecewise Linear Models through Hierarchical Spatial and Functional Smoothing. _Environmetrics_, [http://arxiv.org/abs/2006.09329](http://arxiv.org/abs/2006.09329)
+White, P.A., **Keeler, D.G.**, Sheanshang, D., Rupper, S. (_2021+_). Improving Interpretable Piecewise Linear Models through Hierarchical Spatial and Functional Smoothing. _Environmetrics_, [http://arxiv.org/abs/2006.09329](http://arxiv.org/abs/2006.09329)
 
 ### Published
 
 `2021`
 **Keeler, D.G.**, Rupper, S., Forster, R.R. (*in press*) Repeatability of Polar Snow Accumulation Time Series from Interannual Repeat Radar Echograms. _IEEE Geoscience and Remote Sensing Letters_.
 
-Sheanshang, D., White, P.A., **Keeler, D.G.**, (*in press*). Snow Density Mixture Modelling with a Semiparametric Prior Density Process for Outlier Identification. _Journal of the Royal Statistical Society, Series C (Applied Statistics)_
+Sheanshang, D. M., White, P. A., & **Keeler, D. G.** (2021). Outlier accommodation with semiparametric density processes: A study of Antarctic snow density modelling: Statistical Modelling. [https://doi.org/10.1177/1471082X211043946](https://doi.org/10.1177/1471082X211043946)
 
-White, P. A., **Keeler, D. G.**, & Rupper, S. (2021). Hierarchical integrated spatial process modeling of monotone West Antarctic snow density curves. _The Annals of Applied Statistics_, 15(2), 556–571. [https://doi.org/10.1214/21-AOAS1443](https://doi.org/10.1214/21-AOAS1443)
+White, P. A., **Keeler, D. G.**, & Rupper, S. (2021). Hierarchical integrated spatial process modeling of monotone West Antarctic snow density curves. The Annals of Applied Statistics, 15(2), 556–571. [https://doi.org/10.1214/21-AOAS1443](https://doi.org/10.1214/21-AOAS1443)
 
 **Keeler, D. G.**, Rupper, S., & Schaefer, J. M. (2021). A first-order flexible ELA model based on geomorphic constraints. _MethodsX_, 8, 101173. [https://doi.org/10.1016/j.mex.2020.101173](https://doi.org/10.1016/j.mex.2020.101173)
 
@@ -93,12 +94,20 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 `2012`
 **Keeler, D.G.**, Rupper, S., Burgener, L. _Temporal variability in precipitation source regions for deuterium excess records in the West Antarctic Ice Sheet Divide: 1975 to 2011._ BYU 2012 Spring Research Conference.
 
-<!-- <br/>
-<br/> -->
+<br/>
+<br/>
 
-## Experience
+## EXPERIENCE
 
 ### Research
+
+`2020-Present`
+**Glacio-climate characteristics of High Mountain Asia**
+
+- Investigations of High Mountain Asia glacier mass balance by leveraging regional climate modeling, machine learning, and Bayesian spatial analysis
+- Quantifies the relative influence of climatic forcing and glacial/geomorphic attributes on glacier mass balance
+- Research indicates large variability in responses can result from transient climate sensitivity in addition to climatic forcing and equilibrium climate sensitivity
+- Important implications for water resource management within High Mountain Asia and downstream communities
 
 `2016-Present`
 **Reconstruction of surface mass balance time series from radar**
@@ -108,13 +117,6 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 - Led to a fully automated, scalable workflow that increased available data over 300x compared to in-situ observations
 - Results demonstrated important changes to West Antarctic moisture transport with implications on future sea level
 <!-- - Collaboratively worked with experts from other fields, resulting in 5 article submissions -->
-
-`2020-Present`
-**Glacio-climate zonation of High Mountain Asia**
-
-- Investigated High Mountain Asia glacier groups by leveraging regional climate modeling and machine learning
-- Led to doubling of predictive power of mass balance modeling based on hierarchical clustering methods
-- Important implications for water resource management within High Mountain Asia and downstream communities
 
 `2016`
 **Glacier melt and hydrology modeling**
@@ -142,7 +144,7 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 **Provenance of West Antarctic moisture using deuterium excess**
 
 - Reconstruction of West Antarctic moisture source regions using deuterium excess analyses from shallow ice cores
-- Results indicated a greater contribution from high latitude ocean sources to West Antarctica
+- Results indicated a large contribution from the high latitude ocean to the region
 
 ### Leadership
 
@@ -224,7 +226,7 @@ Geologic communication: BYU Geology -->
 `2018`
 [IsoReduce – Data reduction for stable water isotope data](https://github.com/UofU-Cryosphere/IsoReduce): Software to reduce raw stable water isotope data from a Picarro analyzer, including automatic memory, drift, and bias corrections. -->
 
-## Honors and Awards
+## HONORS AND AWARDS
 
 `2021`
 Excellence in Research Award: University of Utah Geography Department
@@ -253,7 +255,7 @@ ConocoPhillips Scholarship recipient
 `2004`
 VFW Voice of Democracy Scholarship recipient
 
-## Service and Outreach
+## SERVICE AND OUTREACH
 
 `2018`
 Graduate Student Representative for University of Utah Geography Department
@@ -268,4 +270,4 @@ Vice President of the BYU Geology Club
 Organized volunteer tutoring program for under-served K-12 students
 
 ---
-Last updated: August 2021
+<!-- Last updated: August 2021 -->
