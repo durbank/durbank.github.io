@@ -5,102 +5,60 @@ title: ""
 ---
 
 # Durban G. Keeler
-\
-Glaciologist and climate data scientist with 10 years experience specializing in advanced statistical analysis, remote sensing, and computational modeling
 
 \
-<!-- **Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &ensp; &emsp; **Website:** [https://durbank.github.io/](https://durbank.github.io/) \
-**Github:** [https://github.com/durbank](https://github.com/durbank) &emsp; **LinkedIn:** [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) -->
-[Email](durban.keeler@gmail.com) \| [Website](https://durbank.github.io/) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank)
-
-<!-- ## Objective
-
-A _[insert job-specific descriptor]_ position where I can leverage my experience in Earth Sciences, remote sensing, and machine learning. -->
+Salt Lake City, Utah, USA (willing to relocate) \| [durban.keeler@gmail.com](durban.keeler@gmail.com) \
+**LinkedIn:** [www.linkedin.com/in/durbank](www.linkedin.com/in/durbank) &emsp; **Github:** [https://github.com/durbank](https://github.com/durbank)
+<!-- [Email](durban.keeler@gmail.com) \| [Website](https://DrDurban.me) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank) -->
 
 ---
 
-## EDUCATION
+## SUMMARY
 
-`Aug 2021`
-**Ph.D. Geography (Glaciology and Climatology)**\
-University of Utah, Salt Lake City, Utah
-
-`Dec 2015`
-**M.S. Geology (Alpine Glaciology and Paleoclimatology)**\
-Brigham Young University, Provo, Utah
-
-`Aug 2013`
-**B.S. Geology (Physics Minor)**\
-Brigham Young University, Provo, Utah
+Earth and climate scientist with 10 years experience specializing in geospatial analysis, remote sensing, and computational modeling
 
 ## SKILLS
 
 **Programming languages:** Python, R, MATLAB, bash scripting \
-**Computing:** High-performance computing, data visualization, version control, Linux environments \
-**Statistics:** Spatiotemporal analysis, machine learning, probabilistic programming, Bayesian inference \
-**Data types:** GIS, geospatial data, climate models, VNIR/optical imagery, radar
+**Computing:** Version control, Linux environments, PyMC3 \
+**Statistics:** Geospatial analysis, time series analysis, machine learning, probabilistic programming, Bayesian inference \
+**Data types:** GIS, geospatial data, climate models, VNIR/optical imagery, radar, remote sensing
 
 ## EXPERIENCE
 
-`Jan 2016–Sept 2021`
-**Snow Water and Ice Research Lab Manager: University of Utah**
+`Jan 2016–Present`
+**Laboratory Manager: University of Utah**
 
-Supervised lab purchasing, equipment maintenance, development of standard operating procedures, and training of lab members.
+Research laboratory investigating snow, water, and ice in regions across the globe.
+Primary analytical tools include isotope geochemistry, refractory black carbon, aqueous geochemistry, ice core analysis, and geophysical instruments.
 
 - Decreased procurement costs by 20+% during lab start up
-- Improved lab coordination by initiating regular reports on status of equipment
-- Increased productivity/accuracy by creating standard operating procedures
+- Increased lab productivity/accuracy by creating standard operating procedures reporting standards
 - Mentored 14 students in completing and successfully defending research theses
-- Methodically divided large projects into manageable short-term goals to be accomplished by others
 
 `Sept 2016–Aug 2021`
-**Doctoral Researcher: University of Utah**
+**Research Scientist: University of Utah**
 
-Reconstructed polar precipitation time series from radar and assessed their climatic significance using machine learning and Bayesian inference.
-Results demonstrated decreased precipitation in central West Antarctica, indicating changes in hemispheric moisture transport.
+Leveraged remote sensing, spatiotemporal statistics, geochemistry, and computational modeling to explore polar and alpine responses to climate change.
+<!-- Specific investigations included reconstruction and analysis of polar precipitation time series and analyses of glacier mass loss across High Mountain Asia. -->
+Additionally taught both undergraduate and graduate courses in a variety of topics.
 
-- Initiated, designed, and implemented 3 separate projects with overlapping time frames and collaborated on numerous other projects
-- Developed automated computer vision algorithms for radar imagery that increased available data >300x compared to in-situ observations
-- Collaborated with statisticians to implement a hierarchical Bayesian polar snow density model, permitting improved uncertainty quantification
-- Communicated findings to both expert and non-technical audiences through publications, data visualizations, presentations, and  grant proposals
-
-`Jan 2017–Dec 2019`
-**Course Instructor: University of Utah**
-
-Taught graduate and undergraduate courses, including lecturing and course development.
-
-- Communicated complex topics to non-experts in engaging and understandable formats
-- Demonstrated initiative and creativity in crafting captivating lectures and informative labs
-- Engaged students with open dialogue and an overt passion for the subject matter
+- Led three interdisciplinary teams with diverse expertise across 4 organizations, resulting in 7 publications and the 2021 Excellence in Research Award from the University of Utah
+- Developed automated probabilistic computer vision algorithms for radar imagery that increased available data by a factor of 300
+- Implemented a hierarchical Bayesian modeling framework for snow density modeling, providing robust uncertainty quantification
+- Bullet point about HMA work...
 
 `Sept 2013–Dec 2015`
-**Graduate Student Researcher: Brigham Young University**
+**Research Scientist: Brigham Young University**
 
-Reconstructed abrupt climate change from glacier responses through modeling and isotopic geochemistry.
-Results demonstrated changes in summertime temperature were the primary mechanism for European Alps glacier changes.
+Reconstructed abrupt climate changes in Europe from glacier responses using modeling and isotope geochemistry.
+Collaborative project between BYU and Columbia University.
+Also included extensive student mentoring and teaching of undergraduate students.
 
-- Independently identified issues, researched possible answers, and implemented optimal solutions
-- Developed stochastic model to estimate climate changes from minimal paleoglacier measurements
-- Collaborated with geochemists at Columbia University to constrain ages of glacier responses
-
-`Sept 2013–Aug 2015`
-**Graduate Teaching Assistant: Brigham Young University**
-
-Helped teach courses in a variety of topics (advanced statistics, resource geology, geochemistry, scientific communication).
-
-- Effectively communicated complex, technical issues to non-expert audiences in intuitive formats
-- Improved student success by modernizing course curricula to use preferred skills (e.g. ArcGIS tutorials, remote sensing analysis)
-- Methodically implemented the vision of supervisors without the need for direct oversight
-
-<!-- `Sept 2011–June 2013`
-**Undergraduate Researcher: Brigham Young University**
-
-A brief description of the role...
-
-- Reconstruction of Antarctic moisture sources using deuterium excess analyses
-- Important implications for understanding atmospheric circulation and moisture transport in the Southern Hemisphere
-- Included geochemical analysis, statistical analysis, and atmospheric interpretation
-- Results showed a greater contribution from high latitude sources for West Antarctica -->
+- Developed stochastic model to estimate climate changes from surface geomorphology, resulting in method to extract records from minimal information with robust uncertainty assessment
+- Utilized machine learning to develop classifier to distinguish snow and ice in optical satellite imagery
+- Effectively communicated findings to both expert and non-technical audiences, winning Best in Session presentation awards in three separate BYU Spring Research conferences
+- Improved student success by modernizing course curricula to use preferred skills, leading to receipt of the 2015 Outstanding Teaching Award
 
 `May 2012–Aug 2012`
 **Geology intern: Forest Oil Corporation**
@@ -116,37 +74,25 @@ Final results indicated that seismic anisotropy is a key indicator for well succ
 `Sept 2009–May 2011`
 **Admissions and Financial Aid Associate: BYU Student Services**
 
-Assisted clients in navigating admissions and financial aid requirements.
+Assisted clients in navigating admissions and financial aid requirements at Brigham Young University.
 
 - Quickly developed and employed expertise in a broad range of topics
 - Defused volatile situations with confident competency and empathic communication
 - Ensured customer satisfaction using a detail-oriented approach, facilitating inter-department teamwork, and actionable follow-ups
 
-## HONORS AND AWARDS
+## EDUCATION
 
-`May 2021`
-Excellence in Research Award: University of Utah Geography Department
+`Aug 2021`
+**Ph.D. Geography**\
+University of Utah, Salt Lake City, Utah
 
-`Aug 2019`
-University of Utah Graduate Research Fellowship recipient
+`Dec 2015`
+**M.S. Geology**\
+Brigham Young University, Provo, Utah
 
-`May 2015`
-Outstanding Teaching Award: BYU Geology Department
-
-`April 2015`
-Best in Session Award: BYU Spring Research Conference
-
-`April 2013`
-Best in Session Award: BYU Spring Research Conference
-
-`Aug 2012`
-Brigham Young University ORCA grant recipient
-
-<!-- `2006`
-ConocoPhillips Scholarship recipient
-
-`2004`
-VFW Voice of Democracy Scholarship recipient -->
+`Aug 2013`
+**B.S. Geology (physics minor)**\
+Brigham Young University, Provo, Utah
 
 <!-- ---
 
