@@ -91,7 +91,7 @@ Assisted clients in navigating admissions and financial aid requirements at Brig
 - Defused volatile situations with confident competency and empathic communication
 - Ensured customer satisfaction using a detail-oriented approach, facilitating inter-department teamwork, and actionable follow-ups
 
-## Honors and Awards
+## AWARDS
 
 `2021`
 Excellence in Research Award: University of Utah Geography Department
@@ -119,4 +119,4 @@ VFW Voice of Democracy Scholarship recipient -->
 
 ---
 
-Last updated: November 2021
+Updated: November 2021
