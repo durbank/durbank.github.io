@@ -91,6 +91,32 @@ Assisted clients in navigating admissions and financial aid requirements at Brig
 - Defused volatile situations with confident competency and empathic communication
 - Ensured customer satisfaction using a detail-oriented approach, facilitating inter-department teamwork, and actionable follow-ups
 
+## Honors and Awards
+
+`2021`
+Excellence in Research Award: University of Utah Geography Department
+
+`2019`
+University of Utah Graduate Research Fellowship recipient
+
+`2015`
+Outstanding Teaching Award: Brigham Young University Geology Department
+
+`2015`
+Best in Session Award: BYU Spring Research Conference
+
+`2013`
+Best in Session Award: BYU Spring Research Conference
+
+`2012`
+Brigham Young University ORCA grant recipient
+
+<!-- `2006`
+ConocoPhillips Scholarship recipient
+
+`2004`
+VFW Voice of Democracy Scholarship recipient -->
+
 ---
 
 Last updated: November 2021
