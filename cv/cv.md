@@ -5,14 +5,13 @@ title: ""
 ---
 
 # Durban G. Keeler
-\
-Earth and climate scientist specializing in remote sensing, Bayesian inference, and machine learning applied to the cryosphere
 
-\
+<!-- \ -->
+<!-- Earth and climate scientist specializing in remote sensing, Bayesian inference, and machine learning applied to the cryosphere -->
+
 <!-- [Email](durban.keeler@gmail.com) \| [GitHub](https://github.com/durbank) \| [Website](http://DrDurban.me) -->
-**Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) \
-**Website:** [www.DrDurban.me](http://DrDurban.me) \
-**GitHub:** [https://github.com/durbank](https://github.com/durbank)
+**Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &emsp; &emsp; **GitHub:** [https://github.com/durbank](https://github.com/durbank) \
+<!-- **Website:** [www.DrDurban.me](http://DrDurban.me) -->
 
 ---
 
@@ -62,7 +61,7 @@ Burgener, L., Rupper, S., Koenig, L., Forster, R., Christensen, W. F., Williams,
 `2012`
 McBride, J. H., Rupper, S. B., Ritter, S. M., Tingey, D. G., Koutnik, M. R., Quick, A. M., Morris, T.H., Keach, R.W., Burgener, L.K., McKean, A.P., Williams, J., Maurer, J.M., **Keeler, D.G.**, Windell, R. (2012). Radar scattering in an alpine glacier: Evidence of seasonal development of temperate ice beneath ogives. _Geosphere_, 8(5), 1054–1077. [https://doi.org/10.1130/GES00804.1](https://doi.org/10.1130/GES00804.1)
 
-## Presentations
+## PRESENTATIONS
 
 ### Invited talks
 
@@ -93,9 +92,6 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 
 `2012`
 **Keeler, D.G.**, Rupper, S., Burgener, L. _Temporal variability in precipitation source regions for deuterium excess records in the West Antarctic Ice Sheet Divide: 1975 to 2011._ BYU 2012 Spring Research Conference.
-
-<br/>
-<br/>
 
 ## EXPERIENCE
 
@@ -249,11 +245,11 @@ Best in Session Award: BYU Spring Research Conference
 `2012`
 Brigham Young University ORCA grant recipient
 
-`2006`
-ConocoPhillips Scholarship recipient
+<!-- `2006`
+ConocoPhillips Scholarship recipient -->
 
-`2004`
-VFW Voice of Democracy Scholarship recipient
+<!-- `2004`
+VFW Voice of Democracy Scholarship recipient -->
 
 ## SERVICE AND OUTREACH
 
@@ -270,4 +266,4 @@ Vice President of the BYU Geology Club
 Organized volunteer tutoring program for under-served K-12 students
 
 ---
-<!-- Last updated: August 2021 -->
+Updated: October 2021
