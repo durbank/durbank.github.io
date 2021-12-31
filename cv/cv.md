@@ -11,7 +11,7 @@ title: ""
 
 <!-- [Email](durban.keeler@gmail.com) \| [GitHub](https://github.com/durbank) \| [Website](http://DrDurban.me) -->
 **Email:** [durban.keeler@gmail.com](durban.keeler@gmail.com) &emsp; &emsp; **GitHub:** [https://github.com/durbank](https://github.com/durbank) \
-<!-- **Website:** [www.DrDurban.me](http://DrDurban.me) -->
+**Website:** [DrDurban.me](https://www.drdurban.me/)
 
 ---
 
@@ -44,7 +44,7 @@ White, P.A., **Keeler, D.G.**, Sheanshang, D., Rupper, S. (_2021+_). Improving I
 ### Published
 
 `2021`
-**Keeler, D.G.**, Rupper, S., Forster, R.R. (*in press*) Repeatability of Polar Snow Accumulation Time Series from Interannual Repeat Radar Echograms. _IEEE Geoscience and Remote Sensing Letters_.
+**Keeler, D.G.**, Rupper, S., Forster, R.R. (*in press*) Repeatability of Polar Snow Accumulation Time Series from Interannual Repeat Radar Echograms. _IEEE Geoscience and Remote Sensing Letters_. [https://ieeexplore.ieee.org/document/9617562](https://ieeexplore.ieee.org/document/9617562)
 
 Sheanshang, D. M., White, P. A., & **Keeler, D. G.** (2021). Outlier accommodation with semiparametric density processes: A study of Antarctic snow density modelling: Statistical Modelling. [https://doi.org/10.1177/1471082X211043946](https://doi.org/10.1177/1471082X211043946)
 
@@ -208,7 +208,7 @@ Geochemistry: BYU Geology
 `2013-2014`
 Geologic communication: BYU Geology -->
 
-<!-- ## Open respositories and datasets
+## REPOSITORIES AND DATA
 
 `2020`
 [Glacier ELA model based on geomorphic constraints](https://github.com/durbank/ELA-model): A simple model to estimate the ELA of current or former glaciers based on their hypsometry and areal extent.
@@ -220,7 +220,7 @@ Geologic communication: BYU Geology -->
 [The Probabilistic Automated Picking Routine (PAIPR)](https://github.com/durbank/PAIPR): Computer vision algorithms to reconstruct snow accumulation time series in polar regions using airborne radar in a scalable and probabilistic fashion.
 
 `2018`
-[IsoReduce – Data reduction for stable water isotope data](https://github.com/UofU-Cryosphere/IsoReduce): Software to reduce raw stable water isotope data from a Picarro analyzer, including automatic memory, drift, and bias corrections. -->
+[IsoReduce – Data reduction for stable water isotope data](https://github.com/UofU-Cryosphere/IsoReduce): Software to reduce raw stable water isotope data from a Picarro analyzer, including automatic memory, drift, and bias corrections.
 
 ## HONORS AND AWARDS
 
