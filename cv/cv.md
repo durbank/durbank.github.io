@@ -265,5 +265,5 @@ Vice President of the BYU Geology Club
 `2014`
 Organized volunteer tutoring program for under-served K-12 students
 
-<!-- ---
-Updated: October 2021 -->
+---
+Updated: October 2021
