@@ -43,7 +43,7 @@ Brigham Young University, Provo, Utah
 `Sept 2016–Present`
 **Research Scientist: University of Utah**
 
-*Leveraging remote sensing, spatiotemporal statistics, geochemistry, and computational modeling to explore polar and alpine glacier responses to climate change.
+*Utilized remote sensing, spatiotemporal statistics, geochemistry, and computational modeling to explore polar and alpine glacier responses to climate change.
 Additionally taught both undergraduate and graduate courses in a variety of topics.*
 
 - Directed three interdisciplinary science teams with diverse expertise across 4 organizations, resulting in 7 publications and the 2021 Excellence in Research Award from the University of Utah
@@ -54,21 +54,21 @@ Additionally taught both undergraduate and graduate courses in a variety of topi
 `Jan 2016–Present`
 **Laboratory Manager: University of Utah**
 
-*Research laboratory investigating snow, water, and ice in regions across the globe.
-Primary analytical tools include computational modeling, isotope geochemistry, aqueous geochemistry, ice core analysis, and geophysical instruments.*
+*Managed research lab investigating snow, water, and ice in regions across the globe.
+Primary analytical tools included computational modeling, isotope geochemistry, aqueous geochemistry, ice core analysis, and geophysical instruments.*
 
 - Decreased procurement costs by 20+% during lab start up, freeing additional funding for other projects
-- Increased lab productivity by creating standard operating procedures and reporting standards for lab equipment
+- Increased productivity by creating standard operating procedures and reporting standards for lab equipment
 - Mentored 14 students in completing and successfully defending research theses
 
 `Sept 2013–Dec 2015`
 **Research Scientist: Brigham Young University**
 
-*Collaborative project between BYU and Columbia University reconstructing abrupt climate changes in Europe from glacier responses using process modeling and isotope geochemistry.
+*Collaborative project between BYU and Columbia University to reconstruct abrupt climate changes in Europe from glacier responses using process modeling and isotope geochemistry.
 Also included extensive student mentoring and teaching of undergraduate students.*
 
-- Developed a stochastic glacier model to estimate climate changes from minimal surface measurements, providing climate constraints for new regions with robust uncertainty assessments
-- Utilized machine learning to develop a classifier to distinguish snow and ice in multispectral satellite imagery, permitting stochastic model calibration, validation, and uncertainty quantification
+- Developed a stochastic glacier model to estimate climate changes from minimal surface measurements, providing climate constraints from previously unavailable records with robust uncertainty assessments
+- Utilized machine learning to distinguish snow and ice in multispectral satellite imagery, permitting model calibration, validation, and uncertainty quantification
 - Effectively communicated findings to both expert and non-technical audiences, winning Best in Session presentation awards in three separate BYU Spring Research conferences
 - Improved student success by modernizing course curricula in GIS and field study courses, leading to receipt of the 2015 Outstanding Teaching Award
 
@@ -91,8 +91,9 @@ Also included extensive student mentoring and teaching of undergraduate students
 - Defused volatile situations with confident competency and empathic communication
 - Ensured customer satisfaction using a detail-oriented approach, facilitating inter-department teamwork, and actionable follow-ups
 
-## AWARDS
+### AWARDS
 
+\
 `2021`
 Excellence in Research Award: University of Utah Geography Department
 
