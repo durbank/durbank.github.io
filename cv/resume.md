@@ -14,14 +14,14 @@ Salt Lake City, Utah, USA (willing to relocate) \| durban.keeler@gmail.com \
 
 ## SUMMARY
 
-Earth and climate scientist with 7+ years experience leveraging remote sensing, machine learning, and computational modeling to provide data-driven solutions to geospatial and environmental problems.
+Earth and climate scientist with 7+ years experience leveraging remote sensing, machine learning, and scientific programming to provide data-driven solutions to geospatial and environmental problems.
 
 ## SKILLS
 
-**Programming languages:** Python, R, MATLAB, bash scripting, version control systems \
-**Computing:** High-performance computing, Linux environments, data visualization \
-**Statistics:** Geospatial analysis, time series analysis, machine learning, probabilistic programming, Bayesian inference \
-**Data types:** GIS, geospatial data, climate models, multispectral imagery, radar, remote sensing
+**Programming languages:** Python, R, MATLAB, bash scripting \
+**Computing:** High-performance computing, version control, Linux environments, data visualization \
+**Statistics:** Spatiotemporal analysis, machine learning, probabilistic programming, Bayesian inference \
+**Data types:** Remote sensing, time series, climate models, multispectral imagery, radar
 
 ## EDUCATION
 
@@ -48,16 +48,17 @@ Additionally taught both undergraduate and graduate courses in a variety of topi
 
 - Directed three interdisciplinary science teams with diverse expertise across 4 organizations, resulting in 7 publications and the 2021 Excellence in Research Award from the University of Utah
 - Developed an automated probabilistic computer vision method to reconstruct polar precipitation time series from radar imagery, increasing available data by a factor of 300
-- Implemented a hierarchical Bayesian modeling framework for snow density modeling, providing robust uncertainty quantification of unknown environmental factors
-- Applied machine learning and Bayesian inference to predict glacier melt in response to climate change, leading to improved modeling of alpine hydrology and sea level rise
+- Effectively utilized code parallelization and high-performance computing to scalably deploy method to large datasets (100's of terabytes)
+- Applied machine learning and Bayesian inference to predict glacier melt in response to climate change, leading to improved understanding of alpine hydrology and sea level rise
 
 `Jan 2016–Present`
 **Laboratory Manager: University of Utah**
 
 *Managed research lab investigating snow, water, and ice in regions across the globe.
-Primary analytical tools included computational modeling, isotope geochemistry, aqueous geochemistry, ice core analysis, and geophysical instruments.*
+Primary analytical tools included laser spectroscopy, computational modeling, isotope geochemistry, and geophysical instruments.*
 
-- Decreased procurement costs by 20+% during lab start up, freeing additional funding for other projects
+- Successfully negotiated with outside vendors to decrease procurement costs by 20+% during lab start up
+- Developed and maintained lab laser spectroscopy capabilities for stable water isotope analyses
 - Increased productivity by creating standard operating procedures and reporting standards for lab equipment
 - Mentored 14 students in completing and successfully defending research theses
 
@@ -75,7 +76,7 @@ Also included extensive student mentoring and teaching of undergraduate students
 `May 2012–Aug 2012`
 **Geology intern: Forest Oil Corporation**
 
-*Quantified correlations between well success and various 3D seismic attributes in the Permian Baisn to help identify future well sites and constrain risk assessments.*
+*Quantified correlations between well success and various 3D seismic attributes in the Permian Basin to help identify future well sites and constrain risk assessments.*
 
 - Increased team's potential for well success rates through data-driven analysis
 - Identified and solved issues with minimal oversight
