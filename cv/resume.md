@@ -48,7 +48,7 @@ Additionally taught both undergraduate and graduate courses in a variety of topi
 
 - Directed three interdisciplinary science teams with diverse expertise across 4 organizations, resulting in 7 publications and the 2021 Excellence in Research Award from the University of Utah
 - Developed an automated probabilistic computer vision method to reconstruct polar precipitation time series from radar imagery, increasing available data by a factor of 300
-- Effectively utilized code parallelization and high-performance computing to scalably deploy method to large datasets (100's of terabytes)
+- Effectively utilized code parallelization and high-performance computing to scalably deploy method to large datasets (100's of gigabytes)
 - Implemented a hierarchical Bayesian modeling framework for snow density modeling, providing robust uncertainty quantification of unknown environmental factors
 - Applied machine learning and Bayesian inference to predict glacier melt in response to climate change, leading to improved understanding of alpine hydrology and sea level rise
 
