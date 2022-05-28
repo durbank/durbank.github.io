@@ -145,6 +145,10 @@ Rupper, S., Krueger, J., Strong, C., **Keeler, D.G. (presenter)**. _Tropical For
 - Reconstruction of West Antarctic moisture source regions using deuterium excess analyses from shallow ice cores
 - Results indicated a large contribution from the high latitude ocean to the region
 
+<!-- <br/><br/>
+<br/><br/>
+<br/><br/> -->
+
 ## TEACHING AND MENTORING
 
 `2015-Present`
@@ -212,19 +216,21 @@ Geochemistry: BYU Geology
 `2013-2014`
 Geologic communication: BYU Geology -->
 
-<!-- ## OPEN SOURCE SOFTWARE/DATA
+## OPEN SOURCE SOFTWARE/DATA
 
 `2020`
-[Glacier ELA model based on geomorphic constraints](https://github.com/durbank/ELA-model): A simple model to estimate the ELA of current or former glaciers based on their hypsometry and areal extent.
+[**Glacier ELA model based on geomorphic constraints**](https://github.com/durbank/ELA-model): A simple model to estimate the ELA of current or former glaciers based on their hypsometry and areal extent.
 
 `2019`
-[An Introduction to Version Control with git](https://github.com/UofU-Cryosphere/git-intro): A brief tutorial to get students started with using version control on their coding efforts.
+[**An Introduction to Version Control with git**](https://github.com/UofU-Cryosphere/git-intro): A brief tutorial to get students started with using version control on their coding efforts.
 
 `2019`
-[The Probabilistic Automated Picking Routine (PAIPR)](https://github.com/durbank/PAIPR): Computer vision algorithms to reconstruct snow accumulation time series in polar regions using airborne radar in a scalable and probabilistic fashion.
+[**The Probabilistic Automated Picking Routine (PAIPR)**](https://github.com/durbank/PAIPR): Computer vision algorithms to reconstruct snow accumulation time series in polar regions using airborne radar in a scalable and probabilistic fashion.
 
 `2018`
-[IsoReduce – Data reduction for stable water isotope data](https://github.com/UofU-Cryosphere/IsoReduce): Software to reduce raw stable water isotope data from a Picarro analyzer, including automatic memory, drift, and bias corrections. -->
+[**IsoReduce – Data reduction for stable water isotope data**](https://github.com/UofU-Cryosphere/IsoReduce): Software to reduce raw stable water isotope data from a Picarro analyzer, including automatic memory, drift, and bias corrections.
+
+<!-- <br/><br/> -->
 
 ## HONORS AND AWARDS
 
@@ -257,6 +263,9 @@ VFW Voice of Democracy Scholarship recipient -->
 
 ## SERVICE AND OUTREACH
 
+`2022`
+NASA Grant Proposal Peer Review Panelist
+
 `2018`
 Graduate Student Representative for University of Utah Geography Department
 
@@ -276,5 +285,5 @@ Organized volunteer tutoring program for under-served K-12 students
 **Statistics:** Spatiotemporal analysis, machine learning, probabilistic programming, Bayesian inference \
 **Data types:** Remote sensing, time series, climate models, multispectral imagery, radar
 
-<!-- ---
-Updated: October 2021 -->
+---
+<!-- Updated: May 2022 -->
