@@ -108,6 +108,9 @@ Outstanding Teaching Award: Brigham Young University Geology Department
 `2015`
 Best in Session Award: BYU Spring Research Conference
 
+`2014`
+Best in Session Award: BYU Spring Research Conference
+
 `2013`
 Best in Session Award: BYU Spring Research Conference
 
