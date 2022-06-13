@@ -11,3 +11,5 @@ Links to my academic CV and private sector resumes.
 ## [Geospatial resume]({% link cv/resume-geo.md %})
 
 ## [Data science resume]({% link cv/resume-ds.md %})
+
+<!-- ## [Scratch resume]({% link cv/resume-scratch.md %}) -->
