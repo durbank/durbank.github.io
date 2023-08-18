@@ -12,4 +12,6 @@ Links to my academic CV and private sector resumes.
 
 ## [Data science resume]({% link cv/resume-ds.md %})
 
+## [Climate science resume]({% link cv/resume-clim.md %})
+
 <!-- ## [Scratch resume]({% link cv/resume-scratch.md %}) -->
