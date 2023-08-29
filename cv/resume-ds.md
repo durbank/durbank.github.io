@@ -40,7 +40,20 @@ Brigham Young University, Provo, Utah
 ### EXPERIENCE
 
 \
-`Sept 2016–Present`
+`July 2022–Present`
+**Lead Climate Scientist: AccuWeather for Business**
+
+*Helped businesses from a wide range of sectors (e.g. transportation, retail, energy, financial services, etc.) to understand their unique risks and impacts due to climate change.*
+
+- Spearheaded research and development of advanced methodologies and tools to quantify physical climate hazards such as drought, heat waves, and extreme precipitation events
+- Played a pivotal role in shaping AccuWeather's long-term climate science strategy and guided the development of new product features and services
+- Leveraged advanced statistical modeling to produce probabilistic assessments of climate change risk to support decision-making processes for various stakeholders
+- Generated custom climate risk assessment reports and recommendations for clients
+- Collaborated with cross-functional teams to integrate climate science into AccuWeather's suite of products and services, ensuring the delivery of accurate and actionable information to clients and users
+- Acted internally as a subject matter expert, advising teams on proper data management and statistical analysis for climate related data
+- Communicated with clients and the general public as a climate science expert, representing AccuWeather at conferences, industry events, and media engagements
+
+`Sept 2016–July 2022`
 **Research Scientist: University of Utah**
 
 *Utilized advanced machine learning and statistical modeling to explore polar and alpine glacier responses to climate change.*
@@ -52,7 +65,7 @@ Brigham Young University, Provo, Utah
 - Implemented a hierarchical Bayesian statistical model for snow densification, providing robust quantification of unknown target parameters with complete uncertainty quantification
 - Deployed a variety of machine learning methods to predict glacier melt in response to climate change, improving forecasting in alpine hydrology and sea level rise
 
-`Jan 2016–Present`
+`Jan 2016–July 2022`
 **Laboratory Manager: University of Utah**
 
 *Managed research lab investigating snow, water, and ice in regions across the globe.
@@ -117,12 +130,6 @@ Best in Session Award: BYU Spring Research Conference
 `2012`
 Brigham Young University ORCA grant recipient
 
-<!-- `2006`
-ConocoPhillips Scholarship recipient
-
-`2004`
-VFW Voice of Democracy Scholarship recipient -->
-
 ---
 
-<!-- Updated: May 2022 -->
+Updated: July 2023

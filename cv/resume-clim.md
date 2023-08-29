@@ -23,20 +23,6 @@ Climate scientist with 10+ years experience leveraging computational climate mod
 **Statistics:** Spatiotemporal analysis, machine learning, probabilistic programming, Bayesian inference \
 **Data types**: Global/downscaled climate models, satellite and radar derived remote sensing
 
-## EDUCATION
-
-`Aug 2021`
-**Ph.D. Geography**\
-University of Utah, Salt Lake City, Utah
-
-`Dec 2015`
-**M.S. Geology**\
-Brigham Young University, Provo, Utah
-
-`Aug 2013`
-**B.S. Geology (physics minor)**\
-Brigham Young University, Provo, Utah
-
 ### EXPERIENCE
 
 \
@@ -45,15 +31,13 @@ Brigham Young University, Provo, Utah
 
 *Help businesses from a wide range of sectors (e.g. transportation, retail, energy, financial services, etc.) to understand their unique risks and impacts due to climate change.*
 
-- Spearhead research and development of advanced methodologies and tools to quantify physical climate hazards such as drought, heat waves, and extreme precipitation events
-- Conduct in-depth analysis of climate modeling, producing probabilistic assessments of climate change risk to support decision-making processes for various stakeholders
-- Perform custom climate risk assessments for clients, summarizing findings and recommendations in final reports
-- Collaborate with cross-functional teams to integrate climate science into AccuWeather's suite of products and services, ensuring the delivery of accurate and actionable information to clients and users
-- Act internally as a subject matter expert, advising teams on proper data management and statistical analysis for climate related data
-- Communicate with clients and the general public as a climate science expert, representing AccuWeather at conferences, industry events, and media engagements
-
-<br/><br/>
-<br/><br/>
+- Spearheaded research and development of advanced methodologies and tools to quantify physical climate hazards such as drought, heat waves, and extreme precipitation events
+- Played a pivotal role in shaping AccuWeather's long-term climate science strategy and guided the development of new product features and services
+- Conducted in-depth analysis of climate modeling, producing probabilistic assessments of climate change risk to support decision-making processes for various stakeholders
+- Generated custom climate risk assessment reports and recommendations for clients
+- Collaborated with cross-functional teams to integrate climate science into AccuWeather's suite of products and services, ensuring the delivery of accurate and actionable information to clients and users
+- Acted internally as a subject matter expert, advising teams on proper data management and statistical analysis for climate related data
+- Communicated with clients and the general public as a climate science expert, representing AccuWeather at conferences, industry events, and media engagements
 
 `Sept 2016–July 2022`
 **Climate Research Scientist: University of Utah**
@@ -97,7 +81,21 @@ Primary analytical tools included laser spectroscopy, computational modeling, is
 - Quickly developed new skills as needed (e.g. IHS Kingdom seismic software suite)
 - Summarized technical results to managers in concise and informative reports -->
 
-<!-- ### Select Presentations and Publications
+## EDUCATION
+
+`Aug 2021`
+**Ph.D. Geography**\
+University of Utah, Salt Lake City, Utah
+
+`Dec 2015`
+**M.S. Geology**\
+Brigham Young University, Provo, Utah
+
+`Aug 2013`
+**B.S. Geology (physics minor)**\
+Brigham Young University, Provo, Utah
+
+### Select Presentations and Publications
 
 \
 **Keeler, D.G.** *Polar snow water-equivalent from radar and density modeling*. (invited talk) California Institute of Technology, Climate Modeling Alliance: Pasadena, California, July 2021.
@@ -108,7 +106,7 @@ Primary analytical tools included laser spectroscopy, computational modeling, is
 
 **Keeler, D. G.**, Rupper, S. B., Forster, R., & Miège, C. (2020). A Probabilistic Automated Isochrone Picking Routine to Derive Annual Surface Mass Balance From Radar Echograms. _IEEE Transactions on Geoscience and Remote Sensing_, 58(12), 8598–8611. [https://doi.org/10.1109/TGRS.2020.2989102](https://doi.org/10.1109/TGRS.2020.2989102)
 
-**Keeler, D.G.**, Rupper, S., White, P.A., Miège, C., Forster, R.R. _Integrated Trends in Annual Accumulation Across West Antarctica from Operation IceBridge Snow Radar_. AGU 2019 Fall Meeting -->
+**Keeler, D.G.**, Rupper, S., White, P.A., Miège, C., Forster, R.R. _Integrated Trends in Annual Accumulation Across West Antarctica from Operation IceBridge Snow Radar_. AGU 2019 Fall Meeting
 
 ### AWARDS
 
@@ -125,13 +123,13 @@ Outstanding Teaching Award: Brigham Young University Geology Department
 `2015`
 Best in Session Award: BYU Spring Research Conference
 
-<!-- `2014`
+`2014`
 Best in Session Award: BYU Spring Research Conference
 
 `2013`
 Best in Session Award: BYU Spring Research Conference
 
-`2012`
+<!-- `2012`
 BYU ORCA Grant Recipient -->
 
 <!-- `2006`
@@ -142,4 +140,4 @@ VFW Voice of Democracy Scholarship recipient -->
 
 ---
 
-Updated: April 2023
+Updated: July 2023

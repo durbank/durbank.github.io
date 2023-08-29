@@ -6,7 +6,7 @@ title: ""
 
 # Durban G. Keeler
 
-Salt Lake City, Utah, USA (willing to relocate) \| durban.keeler@gmail.com \
+Salt Lake City, Utah, USA \| durban.keeler@gmail.com \
 **LinkedIn:** [linkedin.com/in/durbank](https://linkedin.com/in/durbank) &emsp; **Github:** [github.com/durbank](https://github.com/durbank)
 <!-- [Email](durban.keeler@gmail.com) \| [Website](https://DrDurban.me) \| [GitHub](https://github.com/durbank) \| [LinkedIn](www.linkedin.com/in/durbank) -->
 
@@ -14,7 +14,7 @@ Salt Lake City, Utah, USA (willing to relocate) \| durban.keeler@gmail.com \
 
 ## SUMMARY
 
-Earth and climate scientist with 8+ years experience leveraging remote sensing, machine learning, and computational modeling to provide data-driven solutions to geospatial and environmental problems.
+Earth scientist with 10+ years experience leveraging remote sensing, machine learning, and statistical modeling to provide data-driven solutions to geospatial and environmental problems.
 
 ## SKILLS
 
@@ -40,6 +40,18 @@ Brigham Young University, Provo, Utah
 ### EXPERIENCE
 
 \
+`July 2022–Present`
+**Lead Climate Scientist: AccuWeather for Business**
+
+*Help businesses from a wide range of sectors (e.g. transportation, retail, energy, financial services, etc.) to understand their unique risks and impacts due to climate change.*
+
+- Spearhead research and development of advanced methodologies and tools to quantify physical climate hazards such as drought, heat waves, and extreme precipitation events
+- Conduct in-depth analysis of climate modeling, producing probabilistic assessments of climate change risk to support decision-making processes for various stakeholders
+- Perform custom climate risk assessments for clients, summarizing findings and recommendations in final reports
+- Collaborate with cross-functional teams to integrate climate science into AccuWeather's suite of products and services, ensuring the delivery of accurate and actionable information to clients and users
+- Act internally as a subject matter expert, advising teams on proper data management and statistical analysis for climate related data
+- Communicate with clients and the general public as a climate science expert, representing AccuWeather at conferences, industry events, and media engagements
+
 `Sept 2016–Present`
 **Research Scientist: University of Utah**
 
