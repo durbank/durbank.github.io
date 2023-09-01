@@ -18,24 +18,10 @@ Earth scientist with 10+ years experience leveraging remote sensing, machine lea
 
 ## SKILLS
 
-**Programming languages:** Python, R, MATLAB, bash scripting \
-**Computing:** High-performance computing, version control, Linux environments, data visualization \
-**Statistics:** Spatiotemporal analysis, machine learning, probabilistic programming, Bayesian inference \
-**Data types:** Remote sensing, time series, climate models, multispectral imagery, radar
-
-## EDUCATION
-
-`Aug 2021`
-**Ph.D. Geography**\
-University of Utah, Salt Lake City, Utah
-
-`Dec 2015`
-**M.S. Geology**\
-Brigham Young University, Provo, Utah
-
-`Aug 2013`
-**B.S. Geology (physics minor)**\
-Brigham Young University, Provo, Utah
+**Programming:** Python, R, MATLAB, ArcGIS, bash scripting \
+**Computing:** High-performance computing, data visualization, cloud computing \
+**Statistics:** Spatiotemporal analysis, machine learning, probabilistic programming \
+**Data:** Remote sensing, time series, multispectral imagery, radar
 
 ### EXPERIENCE
 
@@ -45,25 +31,26 @@ Brigham Young University, Provo, Utah
 
 *Help businesses from a wide range of sectors (e.g. transportation, retail, energy, financial services, etc.) to understand their unique risks and impacts due to climate change.*
 
-- Spearhead research and development of advanced methodologies and tools to quantify physical climate hazards such as drought, heat waves, and extreme precipitation events
-- Conduct in-depth analysis of climate modeling, producing probabilistic assessments of climate change risk to support decision-making processes for various stakeholders
+- Spearhead research and development of advanced methodologies and tools to quantify climate change risk to support decision-making processes for various stakeholders
 - Perform custom climate risk assessments for clients, summarizing findings and recommendations in final reports
-- Collaborate with cross-functional teams to integrate climate science into AccuWeather's suite of products and services, ensuring the delivery of accurate and actionable information to clients and users
-- Act internally as a subject matter expert, advising teams on proper data management and statistical analysis for climate related data
-- Communicate with clients and the general public as a climate science expert, representing AccuWeather at conferences, industry events, and media engagements
+- Integrate time series and geospatial data from diverse sources (remote sensing, modeling data, DEMs, point observations, etc.) to *blank* and address specific needs of clients
+- Act internally as a subject matter expert, advising teams on proper data management and statistical/machine learning analysis for geospatial data
 
 `Sept 2016–Present`
 **Research Scientist: University of Utah**
 
-*Utilized remote sensing, spatiotemporal statistics, geochemistry, and computational modeling to explore polar and alpine glacier responses to climate change.
-Additionally taught both undergraduate and graduate courses in a variety of topics.*
+*Utilized remote sensing, spatiotemporal statistics, and computational modeling to explore polar and alpine glacier responses to climate change.*
 
-- Directed three interdisciplinary science teams with diverse expertise across 4 organizations, resulting in 7 publications and the 2021 Excellence in Research Award from the University of Utah
-- Developed an automated probabilistic computer vision method to reconstruct polar precipitation time series from radar imagery, increasing available data by a factor of 300
+- Developed an automated probabilistic computer vision method to reconstruct spatially-distributed polar precipitation time series from radar imagery, increasing available data by a factor of 300
 - Effectively utilized code parallelization and high-performance computing to scalably deploy method to large datasets (100's of gigabytes)
-- Implemented a hierarchical Bayesian modeling framework for snow density modeling, providing robust uncertainty quantification of unknown environmental factors
 - Applied machine learning and Bayesian inference to predict glacier melt in response to climate change, leading to improved understanding of alpine hydrology and sea level rise
+- Directed three interdisciplinary science teams with diverse expertise across 4 organizations, resulting in 7 publications and the 2021 Excellence in Research Award from the University of Utah
 
+\
+\
+\
+\
+\
 `Jan 2016–Present`
 **Laboratory Manager: University of Utah**
 
@@ -78,15 +65,14 @@ Primary analytical tools included laser spectroscopy, computational modeling, is
 `Sept 2013–Dec 2015`
 **Research Scientist: Brigham Young University**
 
-*Collaborative project between BYU and Columbia University to reconstruct abrupt climate changes in Europe from glacier responses using process modeling and isotope geochemistry.
-Also included extensive student mentoring and teaching of undergraduate students.*
+*Collaborative project between BYU and Columbia University to reconstruct abrupt climate changes in Europe from glacier responses using process modeling and isotope geochemistry.*
 
 - Developed a stochastic glacier model to estimate climate changes from minimal surface measurements, providing climate constraints from previously unavailable records with robust uncertainty assessments
 - Utilized machine learning to distinguish snow and ice in multispectral satellite imagery, permitting model calibration, validation, and uncertainty quantification
 - Effectively communicated findings to both expert and non-technical audiences, winning Best in Session presentation awards in three separate BYU Spring Research conferences
 - Improved student success by modernizing course curricula in GIS and field study courses, leading to receipt of the 2015 Outstanding Teaching Award
 
-`May 2012–Aug 2012`
+<!-- `May 2012–Aug 2012`
 **Geology intern: Forest Oil Corporation**
 
 *Quantified correlations between well success and various 3D seismic attributes in the Permian Basin to help identify future well sites and constrain risk assessments.*
@@ -103,7 +89,22 @@ Also included extensive student mentoring and teaching of undergraduate students
 
 - Quickly developed and employed expertise in a broad range of topics
 - Defused volatile situations with confident competency and empathic communication
-- Ensured customer satisfaction using a detail-oriented approach, facilitating inter-department teamwork, and actionable follow-ups
+- Ensured customer satisfaction using a detail-oriented approach, facilitating inter-department teamwork, and actionable follow-ups -->
+
+### EDUCATION
+
+\
+`Aug 2021`
+**Ph.D. Geography**\
+University of Utah, Salt Lake City, Utah
+
+`Dec 2015`
+**M.S. Geology**\
+Brigham Young University, Provo, Utah
+
+`Aug 2013`
+**B.S. Geology (physics minor)**\
+Brigham Young University, Provo, Utah
 
 ### AWARDS
 
@@ -137,4 +138,4 @@ VFW Voice of Democracy Scholarship recipient -->
 
 ---
 
-Updated: December 2021
+<!-- Updated: August 2023 -->
