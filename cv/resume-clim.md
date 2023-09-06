@@ -14,29 +14,29 @@ Salt Lake City, Utah, USA \| durban.keeler@gmail.com \
 
 ## SUMMARY
 
-Climate scientist with 10+ years experience leveraging computational climate modeling, remote sensing, and statistical inference to provide data-driven solutions to geospatial and environmental problems.
+Climate scientist with 10+ years experience leveraging climate modeling, remote sensing, and statistical inference to provide data-driven solutions to climate problems
 
 ## SKILLS
 
-**Programming languages:** Python, R, ESRI ArcGIS \
-**Computing:** High-performance computing, cloud computing, Linux environments, data visualization \
-**Statistics:** Spatiotemporal analysis, machine learning, probabilistic programming, Bayesian inference \
-**Data types**: Global/downscaled climate models, satellite and radar derived remote sensing
+**Programming languages:** Python, R, MATLAB, bash scripting \
+**Computing:** Cloud computing, Linux environments, data visualization \
+**Statistics:** Spatiotemporal modeling, machine learning, probabilistic analysis, Bayesian inference \
+**Data types**: Global/downscaled climate models, satellite and airborne remote sensing, geophysical data
 
 ### EXPERIENCE
 
 \
-`July 2022–Present`
+`July 2022–August 2023`
 **Lead Climate Scientist: AccuWeather for Business**
 
-*Help businesses from a wide range of sectors (e.g. transportation, retail, energy, financial services, etc.) to understand their unique risks and impacts due to climate change.*
+*Helped businesses from a wide range of sectors (transportation, retail, energy, financial services, etc.) understand their unique risks from climate change.*
 
 - Spearheaded research and development of advanced methodologies and tools to quantify physical climate hazards such as drought, heat waves, and extreme precipitation events
 - Played a pivotal role in shaping AccuWeather's long-term climate science strategy and guided the development of new product features and services
-- Conducted in-depth analysis of climate modeling, producing probabilistic assessments of climate change risk to support decision-making processes for various stakeholders
-- Generated custom climate risk assessment reports and recommendations for clients
-- Collaborated with cross-functional teams to integrate climate science into AccuWeather's suite of products and services, ensuring the delivery of accurate and actionable information to clients and users
-- Acted internally as a subject matter expert, advising teams on proper data management and statistical analysis for climate related data
+<!-- - Conducted in-depth analysis of climate modeling, producing probabilistic assessments of climate change risk to support decision-making processes for various stakeholders -->
+- Generated custom climate risk/vulnerability assessment reports and recommendations for clients, including probabilistic considerations of uncertainty
+- Collaborated with cross-functional teams to obtain, analyze, and interpret climate data and integrate climate science into AccuWeather's suite of products and services
+- Acted internally as a subject matter expert, advising teams on proper data management and analysis for climate data
 - Communicated with clients and the general public as a climate science expert, representing AccuWeather at conferences, industry events, and media engagements
 
 `Sept 2016–July 2022`
@@ -46,7 +46,7 @@ Climate scientist with 10+ years experience leveraging computational climate mod
 
 - Directed three interdisciplinary science teams with diverse expertise across 4 organizations, resulting in 7 publications and the 2021 Excellence in Research Award from the University of Utah
 - Developed an automated probabilistic computer vision method to reconstruct polar precipitation time series from radar imagery, increasing available data by a factor of 300
-- Effectively utilized code parallelization and high-performance computing to scalably deploy method to large datasets (100's of gigabytes)
+- Effectively utilized code parallelization and high-performance computing to scalably deploy method to large geophysical datasets
 <!-- - Implemented a hierarchical Bayesian modeling framework for snow density modeling, providing robust uncertainty quantification of unknown environmental factors -->
 - Applied machine learning and Bayesian inference to predict glacier melt in response to climate change, leading to improved understanding of high mountain water resources
 
@@ -57,8 +57,8 @@ Climate scientist with 10+ years experience leveraging computational climate mod
 Primary analytical tools included laser spectroscopy, computational modeling, isotope geochemistry, and geophysical instruments.*
 
 - Successfully negotiated with outside vendors to decrease procurement costs by 20+% during lab start up
-- Developed and maintained lab laser spectroscopy capabilities for stable water isotope analyses
-- Increased productivity by creating standard operating procedures and reporting standards for lab equipment
+- Developed and maintained laser spectroscopy capabilities for stable isotope analyses
+- Increased productivity by creating standard reporting/operating procedures for lab equipment
 - Mentored 14 students in completing and successfully defending research theses
 
 `Sept 2013–Dec 2015`
@@ -68,6 +68,7 @@ Primary analytical tools included laser spectroscopy, computational modeling, is
 
 - Developed a stochastic glacier model to estimate climate changes from minimal surface measurements, providing climate constraints from previously unavailable records with robust uncertainty assessments
 - Utilized machine learning to distinguish snow and ice in multispectral satellite imagery, permitting model calibration, validation, and uncertainty quantification
+- Developed a hydrological run-off model for glacial melt to better predict glacial contributions to downstream water resources
 - Effectively communicated findings to both expert and non-technical audiences, winning Best in Session presentation awards in three separate BYU Spring Research conferences
 - Improved student success by modernizing course curricula in GIS and field study courses, leading to receipt of the 2015 Outstanding Teaching Award
 
@@ -81,8 +82,9 @@ Primary analytical tools included laser spectroscopy, computational modeling, is
 - Quickly developed new skills as needed (e.g. IHS Kingdom seismic software suite)
 - Summarized technical results to managers in concise and informative reports -->
 
-## EDUCATION
+### EDUCATION
 
+\
 `Aug 2021`
 **Ph.D. Geography**\
 University of Utah, Salt Lake City, Utah
@@ -95,7 +97,7 @@ Brigham Young University, Provo, Utah
 **B.S. Geology (physics minor)**\
 Brigham Young University, Provo, Utah
 
-### Select Presentations and Publications
+<!-- ### Select Presentations and Publications
 
 \
 **Keeler, D.G.** *Polar snow water-equivalent from radar and density modeling*. (invited talk) California Institute of Technology, Climate Modeling Alliance: Pasadena, California, July 2021.
@@ -106,7 +108,7 @@ Brigham Young University, Provo, Utah
 
 **Keeler, D. G.**, Rupper, S. B., Forster, R., & Miège, C. (2020). A Probabilistic Automated Isochrone Picking Routine to Derive Annual Surface Mass Balance From Radar Echograms. _IEEE Transactions on Geoscience and Remote Sensing_, 58(12), 8598–8611. [https://doi.org/10.1109/TGRS.2020.2989102](https://doi.org/10.1109/TGRS.2020.2989102)
 
-**Keeler, D.G.**, Rupper, S., White, P.A., Miège, C., Forster, R.R. _Integrated Trends in Annual Accumulation Across West Antarctica from Operation IceBridge Snow Radar_. AGU 2019 Fall Meeting
+**Keeler, D.G.**, Rupper, S., White, P.A., Miège, C., Forster, R.R. _Integrated Trends in Annual Accumulation Across West Antarctica from Operation IceBridge Snow Radar_. AGU 2019 Fall Meeting -->
 
 ### AWARDS
 
@@ -140,4 +142,4 @@ VFW Voice of Democracy Scholarship recipient -->
 
 ---
 
-Updated: July 2023
+<!-- Updated: July 2023 -->
