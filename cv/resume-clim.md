@@ -19,9 +19,9 @@ Climate scientist with 10+ years experience leveraging climate modeling, remote 
 ## SKILLS
 
 **Programming languages:** Python, R, MATLAB, bash scripting \
-**Computing:** Cloud computing, Linux environments, data visualization \
-**Statistics:** Spatiotemporal modeling, machine learning, probabilistic analysis, Bayesian inference \
-**Data types**: Global/downscaled climate models, satellite and airborne remote sensing, geophysical data
+**Computing:** Cloud computing, data visualization, Big Data distributed processing \
+**Statistics:** Spatiotemporal modeling, climate model downscaling, probabilistic analysis \
+**Data types**: CMIP6 climate models, multidimensional NetCDFs, raster/vector spatial datasets
 
 ### EXPERIENCE
 
@@ -31,11 +31,10 @@ Climate scientist with 10+ years experience leveraging climate modeling, remote 
 
 *Helped businesses from a wide range of sectors (transportation, retail, energy, financial services, etc.) understand their unique risks from climate change.*
 
-- Spearheaded research and development of advanced methodologies and tools to quantify physical climate hazards such as drought, heat waves, and extreme precipitation events
-- Played a pivotal role in shaping AccuWeather's long-term climate science strategy and guided the development of new product features and services
-<!-- - Conducted in-depth analysis of climate modeling, producing probabilistic assessments of climate change risk to support decision-making processes for various stakeholders -->
+- Spearheaded research and development of advanced methodologies and tools to quantify physical climate hazards, including climate model downscaling and uncertainty analyses
 - Generated custom climate risk/vulnerability assessment reports and recommendations for clients, including probabilistic considerations of uncertainty
-- Collaborated with cross-functional teams to obtain, analyze, and interpret climate data and integrate climate science into AccuWeather's suite of products and services
+- Integrated data from diverse sources (CMIP6 model ensembles, model downscaling, meteorological observations, etc.) to assess impacts due to extreme heat, wind, drought, and similar climate changes
+<!-- - Collaborated with cross-functional teams to obtain, analyze, and interpret climate data and integrate climate science into AccuWeather's suite of products and services -->
 - Acted internally as a subject matter expert, advising teams on proper data management and analysis for climate data
 - Communicated with clients and the general public as a climate science expert, representing AccuWeather at conferences, industry events, and media engagements
 
