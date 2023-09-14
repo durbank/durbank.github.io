@@ -14,14 +14,14 @@ Salt Lake City, Utah, USA \| durban.keeler@gmail.com \
 
 ## SUMMARY
 
-Earth scientist with 10+ years experience leveraging remote sensing, Earth system modeling, and statistical interfence to provide data-driven solutions to geospatial and environmental problems.
+Earth scientist with 10+ years experience leveraging remote sensing, Earth system modeling, and statistical interfence to provide data-driven solutions to geospatial and environmental problems
 
 ## SKILLS
 
 **Programming:** Python, R, MATLAB, bash scripting \
 **Computing:** Cloud computing, data visualization \
-**Statistics:** Spatiotemporal analysis, machine learning, probabilistic programming, Bayesian inference \
-**Data:** Remote sensing, time series, GIS, climate models
+**Statistics:** Spatiotemporal analysis, machine learning, probabilistic programming\
+**Data:** Remote sensing, time series, multispectral imagery, radar
 
 ### EXPERIENCE
 
@@ -31,7 +31,7 @@ Earth scientist with 10+ years experience leveraging remote sensing, Earth syste
 
 *Helped businesses from a wide range of sectors (e.g. transportation, retail, energy, financial services, etc.) to understand their unique risks from climate change.*
 
-- Spearheaded research and development of advanced methodologies and tools to quantify climate change risk to support decision-making processes for various stakeholders
+- Spearheaded research and development of advanced methodologies to quantify climate change risk to support decision-making processes for various stakeholders
 - Performed custom climate risk assessments for clients, summarizing findings in final presentations and reports
 - Integrated data from diverse sources (remote sensing, climate models, weather observations, etc.) to assess impacts due to extreme heat, wind, drought, and similar climate changes
 - Collaborated with cross-functional teams to integrate climate science into AccuWeather's suite of products and services, ensuring the delivery of accurate and actionable information to clients and users
@@ -46,7 +46,7 @@ Earth scientist with 10+ years experience leveraging remote sensing, Earth syste
 - Developed an automated probabilistic computer vision method to reconstruct spatially-distributed polar precipitation time series from radar imagery, increasing available data by a factor of 300
 <!-- - Developed and deployed QA/QC subroutines to automatically identify potential data issues -->
 - Effectively utilized code parallelization and high-performance computing to scalably deploy method to large datasets (100's of gigabytes)
-- Applied machine learning and Bayesian inference to predict glacier melt in response to climate change, leading to improved understanding of alpine hydrology and sea level rise
+- Applied machine learning and Bayesian inference to predict glacier melt in response to climate change, leading to improved understanding of its impact on sea level
 - Directed three interdisciplinary science teams with diverse expertise across 4 organizations, resulting in 7 publications and the 2021 Excellence in Research Award from the University of Utah
 
 `Jan 2016–July 2022`
@@ -70,7 +70,7 @@ Primary analytical tools included laser spectroscopy, computational modeling, is
 - Effectively communicated findings to both expert and non-technical audiences, winning Best in Session presentation awards in three separate BYU Spring Research conferences
 - Improved student success by modernizing course curricula in GIS and field study courses, leading to receipt of the 2015 Outstanding Teaching Award
 
-`May 2012–Aug 2012`
+<!-- `May 2012–Aug 2012`
 **Geology intern: Forest Oil Corporation**
 
 *Quantified correlations between well success and various 3D seismic attributes in the Permian Basin to help identify future well sites and constrain risk assessments.*
@@ -78,7 +78,7 @@ Primary analytical tools included laser spectroscopy, computational modeling, is
 - Increased team's potential for well success rates through data-driven analysis
 - Identified and solved issues with minimal oversight
 - Quickly developed new skills as needed (e.g. IHS Kingdom seismic software suite)
-- Summarized technical results to managers in concise and informative reports
+- Summarized technical results to managers in concise and informative reports -->
 
 <!-- `Sept 2009–May 2011`
 **Admissions and Financial Aid Associate: BYU Student Services**
@@ -119,14 +119,14 @@ Outstanding Teaching Award: Brigham Young University Geology Department
 `2015`
 Best in Session Award: BYU Spring Research Conference
 
-<!-- `2014`
+`2014`
 Best in Session Award: BYU Spring Research Conference
 
 `2013`
 Best in Session Award: BYU Spring Research Conference
 
 `2012`
-Brigham Young University ORCA grant recipient -->
+Brigham Young University ORCA grant recipient
 
 <!-- `2006`
 ConocoPhillips Scholarship recipient
