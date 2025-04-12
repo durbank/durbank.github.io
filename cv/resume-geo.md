@@ -14,18 +14,27 @@ Salt Lake City, Utah, USA \| durban.keeler@gmail.com \
 
 ## SUMMARY
 
-Earth scientist with 10+ years experience leveraging remote sensing, Earth system modeling, and statistical interfence to provide data-driven solutions to geospatial and environmental problems
+Geospatial data scientist with 10+ years experience leveraging remote sensing, Earth system modeling, and statistical interfence to provide data-driven solutions to geospatial and environmental problems
 
 ## SKILLS
 
-**Programming:** Python, R, MATLAB, bash scripting \
-**Computing:** Cloud computing, data visualization \
-**Statistics:** Spatiotemporal analysis, machine learning, probabilistic programming\
+**Programming:** Python, R, geopandas, Pangeo \
+**Computing:** Cloud computing, data visualization, AI \
+**Statistics:** Geospatial analysis, machine learning, Bayesian statistics\
 **Data:** Remote sensing, time series, multispectral imagery, radar
 
 ### EXPERIENCE
 
 \
+`October 2023–Present`
+**Climate Analytics Lead: ICF
+
+- Lead the development of climate analytics at ICF, including statistical/ML models, automated risk assessment methods, and expansion of the analytics codebase
+- Serve as a subject matter expert on climate science, statistical theory, and computational methods to both internal teams and external clients
+- Provide direction and mentorship to junior staff members through project management and technical trainings
+- Develop customized climate model outputs by leveraging machine learning and AI, including optimizing Earth foundation models
+- Develop cloud-optimized distributed processing methods for analyzing climate data and other geospatial time series
+
 `July 2022–August 2023`
 **Lead Climate Scientist: AccuWeather for Business**
 
@@ -107,13 +116,16 @@ Brigham Young University, Provo, Utah
 ### AWARDS
 
 \
+`2024`
+ICF Innovator of the Year
+
 `2021`
 Excellence in Research Award: University of Utah Geography Department
 
 `2019`
 University of Utah Graduate Research Fellowship recipient
 
-`2015`
+<!-- `2015`
 Outstanding Teaching Award: Brigham Young University Geology Department
 
 `2015`
@@ -126,7 +138,7 @@ Best in Session Award: BYU Spring Research Conference
 Best in Session Award: BYU Spring Research Conference
 
 `2012`
-Brigham Young University ORCA grant recipient
+Brigham Young University ORCA grant recipient -->
 
 <!-- `2006`
 ConocoPhillips Scholarship recipient
